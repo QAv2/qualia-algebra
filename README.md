@@ -1,6 +1,3 @@
-# Qualia_Algebra
-A Mathematical Framework for Consciousness
-
 # Qualia Algebra: A Mathematical Framework for Consciousness from First Principles
 
 **Version 2.0**
