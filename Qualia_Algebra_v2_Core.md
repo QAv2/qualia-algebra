@@ -881,6 +881,6 @@ The practical implication:
 
 ### AI and Tools
 
-13. Anthropic (2024). Claude (version Sonnet 4.5) [Large language model]. https://www.anthropic.com
+13. Anthropic (2025). Claude (version Sonnet 4.5) [Large language model]. https://www.anthropic.com
 
 ---
