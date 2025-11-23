@@ -37,6 +37,10 @@ Complete technical development including extended derivations, philosophical ana
 
 📄 [View Comprehensive Paper](papers/Qualia_Algebra_v2_Comprehensive_Paper.pdf)
 
+--- 
+
+**Figures branch of repository contains all graphics and figures from the document**
+
 ---
 
 ## Quick Start
@@ -250,10 +254,10 @@ If you use Qualia Algebra in your research, please cite:
 
 **BibTeX:**
 ```bibtex
-@article{vanhorn2024qualia,
+@article{vanhorn2025qualia,
   title={Qualia Algebra: A Mathematical Framework for Consciousness from First Principles},
   author={Vanhorn, Joseph},
-  year={2024},
+  year={2025},
   note={Version 2.0},
   howpublished={Zenodo. \url{https://doi.org/10.5281/zenodo.XXXXXXX}}
 }
@@ -261,7 +265,7 @@ If you use Qualia Algebra in your research, please cite:
 
 **APA:**
 ```
-Vanhorn, J. (2024). Qualia Algebra: A Mathematical Framework for Consciousness 
+Vanhorn, J. (2025). Qualia Algebra: A Mathematical Framework for Consciousness 
 from First Principles (Version 2.0). Zenodo. 
 https://doi.org/10.5281/zenodo.XXXXXXX
 ```
