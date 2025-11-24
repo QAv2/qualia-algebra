@@ -385,7 +385,9 @@ Tononi, G., Boly, M., Massimini, M., & Koch, C. (2016). Integrated information t
 
 **Data Availability**: All theoretical derivations and validation data available in supplementary materials at https://github.com/QAv2/qualia-algebra
 
-**Code Availability**: Python implementations of the Neti Neti algorithm, phase-locking dynamics simulations, observer capacity calculations, and other computational models available at https://github.com/QAv2/qualia-algebra
+**Code Availability**: Python implementations avaliable at https://github.com/QAv2/qualia-algebra (DOI: 10.5281/zenodo.17685406)
+
+
 
 ---
 
