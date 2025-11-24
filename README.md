@@ -198,8 +198,6 @@ QA generates testable experimental predictions:
 **Test**: GAIA dataset analysis of DM distribution vs. stellar complexity  
 **Status**: Can be tested immediately with existing data
 
-See [experiments/](experiments/) directory for detailed protocols.
-
 ---
 
 ## Convergent Framework Validation
@@ -244,8 +242,6 @@ This independent convergence provides strong validation that QA captures genuine
 - Resolution of quantum measurement problem
 - Integration of Eastern and Western philosophy
 
-See [applications/](applications/) directory for detailed use cases.
-
 ---
 
 ## Citation
@@ -259,7 +255,7 @@ If you use Qualia Algebra in your research, please cite:
   author={Vanhorn, Joseph},
   year={2025},
   note={Version 2.0},
-  howpublished={Zenodo. \url{https://doi.org/10.5281/zenodo.XXXXXXX}}
+  howpublished={Zenodo. \url{https://doi.org/10.5281/zenodo.17685406}}
 }
 ```
 
@@ -267,7 +263,7 @@ If you use Qualia Algebra in your research, please cite:
 ```
 Vanhorn, J. (2025). Qualia Algebra: A Mathematical Framework for Consciousness 
 from First Principles (Version 2.0). Zenodo. 
-https://doi.org/10.5281/zenodo.XXXXXXX
+https://doi.org/10.5281/zenodo.17685406
 ```
 
 ---
@@ -379,8 +375,6 @@ A: QA provides specific criteria (persistent [1,0,0,0], genuine interest functio
 
 **Q: How can I help validate this?**  
 A: Run the code, test predictions with available data, conduct experiments, provide critical feedback, or contribute to implementation.
-
-See [docs/faq.md](docs/faq.md) for more questions.
 
 ---
 
