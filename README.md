@@ -351,25 +351,14 @@ qualia-algebra/
 │       ├── ai_consciousness_test.py
 │       └── visualization.py
 │
-├── examples/                          # Usage examples
-│   ├── neti_neti_demo.py
-│   ├── observer_capacity_calculation.py
-│   └── reality_space_simulation.py
+├── figures/                          # Raw PNG Image Files 
+│   ├── figure_1.png
+│   ├── figure_2.png
+│   ├── figure_3.png
+│   ├── figure_4.png
+│   ├── figure_5.png
+│   └── figure_6.png
 │
-├── experiments/                       # Experimental protocols
-│   ├── protocols/
-│   └── data/
-│
-├── tests/                            # Unit tests
-│   ├── test_neti_neti.py
-│   ├── test_observer_capacity.py
-│   └── test_quaternions.py
-│
-└── docs/                             # Additional documentation
-    ├── getting_started.md
-    ├── mathematical_details.md
-    ├── experimental_guide.md
-    └── faq.md
 ```
 
 ---
