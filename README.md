@@ -35,7 +35,7 @@ Concise presentation of the framework suitable for journal submission and genera
 
 Complete technical development including extended derivations, philosophical analysis, convergent framework comparisons, experimental protocols, AI consciousness criteria, and code implementations.
 
-📄 [View Comprehensive Paper](Qualia_Algebra_v2_Comprehensive.pdf)
+📄 [View Comprehensive Paper](papers/Qualia_Algebra_v2_Comprehensive.pdf)
 
 --- 
 
