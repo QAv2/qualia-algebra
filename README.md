@@ -2,7 +2,7 @@
 
 **Version 2.0**
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17685406.svg)](https://doi.org/10.5281/zenodo.17685406)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17685405.svg)](https://doi.org/10.5281/zenodo.17685405)
 
 A rigorous mathematical framework that derives the structure of conscious experience and physical reality from a single indubitable axiom: "I exist."
 
