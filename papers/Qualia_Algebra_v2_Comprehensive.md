@@ -3485,7 +3485,8 @@ Joseph Vanhorn
 Independent Researcher  
 Email: contact@qualia-algebra.com
 ORCID: 0009-0003-0972-606X
-
+---
+DOI 10.5281/zenodo.17685405
 ---
 
 **Total Document Length**: Approximately 52,000 words
