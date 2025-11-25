@@ -347,14 +347,14 @@ qualia-algebra/
 │       ├── ai_consciousness_test.py
 │       └── visualization.py
 │
-├── figures/                          # Raw PNG Image Files 
-│   ├── figure_1.png
-│   ├── figure_2.png
-│   ├── figure_3.png
-│   ├── figure_4.png
-│   ├── figure_5.png
-│   └── figure_6.png
-│
+├── FIGURES_GUIDE.md                   # Raw PNG image files
+└── figures/
+    ├── Figure_1_Observer_Capacity_Derivation.png (195 KB)
+    ├── Figure_2_Three_Reality_Spaces.png (459 KB)
+    ├── Figure_3_Phase_Locking_Dynamics.png (180 KB)
+    ├── Figure_4_Neti_Neti_Convergence.png (96 KB)
+    ├── Figure_5_Observer_Capacity_Comparison.png (108 KB)
+    └── Figure_6_Convergent_Frameworks.png (341 KB)
 ```
 
 ---
