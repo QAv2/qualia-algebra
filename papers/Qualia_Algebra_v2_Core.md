@@ -387,6 +387,7 @@ Tononi, G., Boly, M., Massimini, M., & Koch, C. (2016). Integrated information t
 
 **Code Availability**: Python implementations of the Neti Neti algorithm, phase-locking dynamics simulations, observer capacity calculations, and other computational models available at https://github.com/QAv2/qualia-algebra
 
+**DOI 10.5281/zenodo.17685405**
 ---
 
 **Word Count**: ~5,000 words (excluding references and figure captions)
