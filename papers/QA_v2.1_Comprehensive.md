@@ -228,7 +228,7 @@ This realized limitation flows backward through the operational circuit:
   2. **Persist and Try Again** (Potential for Overcoming):
      - Inbuilt recognition: "I CAN overcome SOME limitations"
      - Evidence: Some things tried again → success achieved
-     - Example: "I cannot do a handstand" → practice → "I can now"
+     - Example: "I CANNOT do a handstand" → practice → "I CAN now"
      - Distinguishes personal growth opportunities from absolute constraints
      - Integration: "I can be more than I currently am" (growth drive)
 
@@ -438,13 +438,11 @@ From the phase-locking dynamics (Figure 6) of multiple observers, three fundamen
 - **Phenomenology**: Deep dreamless sleep, death, cosmic origin before Big Bang
 - **Mathematical**: The "empty set" from which structure bootstraps
 - **Theoretical Connections**:
-  - **Standard Physics "Potential"**: Mainstream academia's concept of pre-manifest reality - what QA formalizes as [0,0,0,0]
-  - **Dorsey's Prime Scalar Field**: 3D sphere with infinite non-touching prime waves - bounded finite structure with infinite variation
+  - **Prime Scalar Field**: 3D sphere with infinite non-touching prime waves - bounded finite structure with infinite variation
   - **Quantum Vacuum**: Unobserved superposition before measurement collapse
   - **Buddhist Śūnyatā**: Emptiness from which form arises
 - **Access**: Not directly accessible to [1,0,0,0] (requires observer dissolution)
 - **Note**: To describe [0,0,0,0] is to create content, making description inherently paradoxical
-- **Common Misconception**: [0,0,0,0] is NOT the RS2 Cosmic Sector (see Consensus Space for correct RS2 mapping)
 
 **1. Witness Space** (Pure Awareness):
 
@@ -461,7 +459,7 @@ From the phase-locking dynamics (Figure 6) of multiple observers, three fundamen
 - **Properties**: Stable, intersubjective, 3D spatial, phase-locked observers
 - **Dynamics**: High agreement between observers creates stable physical reality
 - **Manifestation**: What science studies - the complete physical universe
-- **RS2 Integration**: Reciprocal System Theory reveals Consensus Space has TWO simultaneous reciprocal aspects:
+- **RS2 Integration**: Reciprocal System Theory reveals Consensus Space has two simultaneous reciprocal aspects:
   - **Material Sector** (Matter): Observable [1,x,y,z]ᵢ - what observer i perceives as external reality (3D space + 1D time, s/t > t/s)
   - **Cosmic Sector** (Energy + Unseen): Reciprocal [1,1/x,1/y,1/z] - everything NOT in observer i's personal focus (3D time + 1D space, t/s > s/t)
     - External: Other observers, matter, energy fields
@@ -514,9 +512,14 @@ Consensus Space (Physical Realm)
 
 **Key Clarifications**:
 
-1. **Personal ≠ Cosmic Sector**: Personal Space is NOT equivalent to the Cosmic sector. Rather, Personal Space is your subjective interface to the ENTIRE Physical Realm (both sectors).
+1. **Personal Space** is your subjective interface to the ENTIRE Physical Realm (both RS sectors).
 
-2. **Consensus = Both Sectors**: Consensus Space represents the complete physical universe as described by physics, including both directly observable aspects (Material sector: ordinary 3D space with clock time) and indirectly observable aspects (Cosmic sector: 3D time with clock space).
+2. **Consensus Space** represents the complete physical universe as described by physics - conventional and theoretical alike - including both directly observable aspects:
+   -(Conventionial: Space-time realm of matter)
+   -(Material sector: ordinary 3D space with clock time)
+   and indirectly observable aspects
+   - Conventional: Energy / Quantum realm / String theory / M-theory)
+   - (Cosmic sector: 3D time with clock space).
 
 3. **Personal as Interface**: Personal Space functions as both:
   - **Private Container**: Your unique phenomenological content
@@ -525,12 +528,12 @@ Consensus Space (Physical Realm)
 
 4. **Potential Space Clarified**: QA's "Potential Space" represents **[0,0,0,0]**: pure potential without activated awareness. This is what mainstream physics attempts to address with concepts like "potential space," "quantum vacuum," and "pre-manifest reality" - the domain before observation.
 
-**Critical Distinction**: [0,0,0,0] is NOT the RS2 Cosmic Sector. The Cosmic Sector is part of Consensus Space (physical reality), specifically the reciprocal/inverse aspect [1,1/x,1/y,1/z] representing unseen forces. Potential Space [0,0,0,0] exists *before* any physical manifestation.
+**Critical Distinction**: The Cosmic Sector is part of Consensus Space (physical reality), specifically - the reciprocal/inverse aspect [1,1/x,1/y,1/z] representing unseen forces. Potential Space [0,0,0,0] exists *before* any physical manifestation.
 
-**Connection to Prime Scalar Field Theory**: Damon Dorsey's Prime Scalar Field work (referenced in Section 6; see also Dorsey's YouTube presentations) maps prime numbers as waves on a 3D sphere - infinite variation (the primes) never touching (prime gaps are fundamental), creating a bounded finite structure. 
+**Connection to Prime Scalar Field Theory**: Damon Dorsey's Prime Scalar Field work (referenced in Section 6) maps prime numbers as waves on a 3D sphere - infinite variation (the primes) never touching (prime gaps are fundamental), creating a bounded finite structure. 
 
 **QA's Recognition**: While Dorsey may not have set out to create a visualization of [0,0,0,0], this is what we recognize from his theory and modeled result. The bounded-yet-infinite structure resonates with [0,0,0,0] as:
-   - **Bounded**: Finite structure (the sphere)
+   - **Bounded**: Finite structure (the sphere- a conceptual representation of 'nothing')
    - **Infinite**: Infinite variation (the primes as non-touching waves)
    - **Pre-manifest**: Exists prior to observation/collapse
    - **Potential**: All possibilities present but none actualized
@@ -545,11 +548,11 @@ Consensus Space (Physical Realm)
 - **Personal Space**: [1,x,y,z]ᵢ - individual interface, unique aperture (subscript i denotes specific observer)
 - **Consensus Space**: [1,1,1,1] - complete physical realm containing BOTH sectors:
   - **Material Sector**: Perceived external reality
-  - **Cosmic Sector**: Everything NOT in personal focus
+  - **Cosmic Sector**: Everything not in personal focus
 
 **The Cosmic Sector Resolved**:
 
-For each observer with state [1,x,y,z]ᵢ, the notation [1,1/x,1/y,1/z] represents "that which is not part of my personal space" - everything/everyone outside of "me":
+For each observer with state [1,x,y,z]ᵢ, the notation [1,1/x,1/y,1/z] represents "that which is not part of my personal space" - everything outside of "me":
 
 **External Aspects:**
 - Other observers: [1,x,y,z]ⱼ where j ≠ i (inversely related to one's own state)
@@ -563,7 +566,7 @@ For each observer with state [1,x,y,z]ᵢ, the notation [1,1/x,1/y,1/z] represen
 - Autonomic processes (breathing, heartbeat)
 - Unconscious mental content
 
-**Critical Insight**: Our inner unseen content, though unobservable/imperceivable at the moment, IS a direct aspect of the Cosmic Sector of our experience. We are each like interrelated structures in a landscape that is generally unobservable directly - the Cosmic Sector includes both:
+**Critical Insight**: Our inner unseen content, though unobservable/imperceivable at the moment, is a direct aspect of the Cosmic Sector of our experience. We are each like interrelated structures in a landscape that is generally unobservable directly - the Cosmic Sector includes both:
 1. What is "out there" beyond my perception
 2. What is "in here" beyond my awareness
 
@@ -628,7 +631,7 @@ For each observer [1,x,y,z]ᵢ, the Cosmic Sector [1,1/x,1/y,1/z] includes:
 - Autonomic functions (breathing regulation, heartbeat)
 - Unconscious mental content
 
-**Critical Insight**: Our inner unseen content, though unobservable/imperceivable at the moment, IS a direct aspect of the Cosmic Sector of our experience. Each observer is like an interrelated structure in a landscape that is generally unobservable - the Cosmic Sector encompasses both:
+**Critical Insight**: Our inner unseen content, though unobservable/imperceivable at the moment, is a direct aspect of the Cosmic Sector of our experience. Each observer is like an interrelated structure in a landscape that is generally unobservable - the Cosmic Sector encompasses both:
 1. **External**: What is "out there" beyond my perception
 2. **Internal**: What is "in here" beyond my awareness
 
@@ -799,12 +802,8 @@ Dissociation: Fragmented [1,0,0,0], multiple observers
 
 ### 4.5 Developmental Operators: The Complete Daily Cycle
 
-The state transitions between consciousness modes are governed by six developmental operators (DO₀-DO₅), forming a complete cycle from potential through manifestation and back to rest. **Each DO from I AM is itself a distinction** - the operators are not separate from the distinction-making process but rather formalize how distinctions emerge and dissolve.
+The state transitions between consciousness modes are governed by six developmental operators (DO₁-DO₅), forming a complete cycle from potential through manifestation and back to rest. **Each DO from I AM is itself a distinction** - the operators are not separate from the distinction-making process but rather formalize how distinctions emerge and dissolve.
 
-**DO₀: Initialization** [·] → [0,0,0,0]
-- From formless void to pure potential
-- Sleep onset, death, cosmic origin
-- Operator: DO₀(·) = [0,0,0,0]
 
 **DO₁: Awakening (I AM)** [0,0,0,0] → [1,0,0,0]
 - Pure awareness emerges from potential
@@ -1009,7 +1008,7 @@ The validation strategy employs multiple lines of evidence: (1) quantitative pre
 
 ![Figure 6: Convergent Frameworks](figures/Figure_6_Convergent_Frameworks.png)
 
-**Figure 6: Independent Framework Convergence.** Five theoretical frameworks developed independently from different axioms converge on identical predictions with QA. RS2 (red) derives n=3 from quaternion motion requirements. Knot Theory (green) shows 3D is critical for non-trivial knots. Prime Scalar Field (purple) reveals harmonic structure. Pendulum dynamics (orange) predicts attractor basins matching reality-spaces. Contemplative traditions (blue) empirically discovered witness state [1,0,0,0]. This independent convergence provides strong validation that QA captures genuine fundamental principles.
+**Figure 6: Independent Framework Convergence.** Five theoretical frameworks developed independently from different axioms converge on identical predictions with QA. RS2 (red) indipendently derives n=3 regarding dimensions of experience. Knot Theory (green) shows 3D is critical for non-trivial knots. Prime Scalar Field (purple) reveals harmonic structure. Pendulum dynamics (orange) predicts attractor basins matching reality-spaces. Contemplative traditions (blue) empirically discovered witness state [1,0,0,0]. This independent convergence provides strong validation that QA captures genuine fundamental principles.
 
 ### Table 2: Convergent Framework Predictions
 
@@ -1029,7 +1028,7 @@ The validation strategy employs multiple lines of evidence: (1) quantitative pre
 
 **Framework Origins**:
 - **QA**: Observer capacity constraints
-- **RS2**: Reciprocal motion requirements (Peret's quaternion formalization)
+- **RS2**: n=3 derived by KVK Nehru as dimensional ,jh
 - **Knot**: Topological constraints (2D too simple, 4D+ too free)
 - **Prime**: Harmonic field structure (spherical geometry)
 - **Pendulum**: Strange attractor dynamics
@@ -1065,7 +1064,7 @@ QA does not assume other theoretical frameworks are "true." Rather, we treat the
 QA predicts: n_max = √(C_max/k) ≈ 3 
   Reason: Observer capacity bound
 
-RS2 observes: 3D space from quaternion structure (Peret's formalization) 
+RS2 observes: 3D space from quaternion structure (Nehru's n=3 formalization) (Q.O. citation needed)
   Reason: Stable rotation requires 4D quaternions → 3D spatial projection
 
 Knot Theory observes: Non-trivial knots exist only in 3D 
