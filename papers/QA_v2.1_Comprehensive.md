@@ -268,47 +268,56 @@ The four core theorems (0-3) plus the capacity theorem (4) form one complete cyc
 
 **Active cycling:**
 This entire circuit proceeds as an active process 
-**Example cycle**
-- -Day starts-
+  
 ```
+
 [0, 0, 0, 0] awakens → [1, 0, 0, 0]
-   → I AM -awake- (Focus predominantly in Personal space)
+   → I AM [1, 0, 0, 0] -awake- (Focus predominantly in Personal Space)
      → I HAVE recognition of the agency of focus
-        → I CAN -arise from bed now- or -rest and explore Personal space
+        → I CAN -arise from bed now- or -rest and explore Personal Space
      → I HAVE a choice
         → I CAN choose
-           → I DO choose
+           → I DO
         → I CAN feel myself getting out of bed concomitant with the action as 
            → I DO get out of bed
-- Cycle repeats in this fashion until an I DO process results in an I CANNOT output.
-   → I AM (engaged in an activity)
-     → I HAVE (all tools necessery to accomplish task)
-        → I CAN (proceed with task)
-           → I DO (begin task) Achieve result -
+
+Cycle repeats in this fashion until an I DO process results in an I CANNOT output.
+
+   → I AM engaged in an activity
+     → I HAVE all tools necessery to accomplish task
+        → I CAN proceed with task
+           → I DO begin task → Interact with Consensus Space → Achieve result
   → I AM with knowledge of current result
-     → I HAVE the desire to continue working and refining the product so I loop back through
-        → I CAN (continue)
-           → I DO proceed *until*
-              →I CANNOT (constraint encountered) which requires cycling back through to
+     → I HAVE desire to continue working and refining so I loop back through
+        → I CAN continue
+           → I DO *until*
+              →I CANNOT (constraint encountered)
+
+which requires cycling back through to
+
   → I AM with knowledge that when
-    → I HAVE limitations that
-        → I CAN either accept or reject
-           → I DO choose
-           → I DO act on choice
+    → I HAVE constraints/limitations
+      → I CAN either accept or reject
+       → I DO choose/act
   → I AM with knowledge of the result of the choice
-        → I CAN continue the cycle to the final point of the day's activity expressed as 
-  
+    → I CAN continue the cycle to the final point of the day's activity
+
+expressed as
+ 
   → I AM finished with the day and ready for bed
         → I CAN feel myself getting sleepy
-           → I DO decide and go to bed > leading to
+           → I DO decide + go to bed ; leading to
   → I AM in bed
-  → I AM *dissolved in deep sleep* -- return to [0, 0, 0, 0]
-```
-**note:**(the cycling of I CAN to I DO as the metabolic activity can be likened to the 4-2-1 number sequence cycling of the Collatz Conjecture) 
+           → I DO shift focus from Consensus to Personal Space
 
-***UPDATENEEDED***
-- -→ I CAN move quickly because I recognize that I AM capable of doing so -> I DO quickly cross the room to the carpet ->
-My example here is kenematic, needs reevaluation to accomodate experience of other abled people. perhaps the activity of eating which is more universal.. still ignores parapelegic.. will revisit
+resulting in
+
+   *dissolution through Personal Space to deep sleep*
+      return to [0, 0, 0, 0]
+  
+```
+
+**Conjecture:** The cycling of I AM to I DO can be mathematically likened to the 4-2-1 number sequence cycling of the Collatz Conjecture. The solution to that mathematical curiosity lies in recognition that the only way to end the loop is to stop the function and invert it, proceed backwards towards the integer 'n' that began the sequence - which is to say: return to [1, 0, 0, 0] - where the identity of 'n' is any number represented by QA notation [1, 0, 0, 0]. It is of interest to note that the inversion of the sequence that causes the 4-2-1 loop begins at 1 and the reversed sequence explodes towards infinite potential starting points 'n∞' which is to say, [0, 0, 0, 0]. The 4-2-1 loop can be expressed as [1, x1, y1, z1] → [1, x2, y1, z2] → [1, x2, y2, z3] → [1, x3, y2, z4] → [1, x3, y3, z5] where the activity 'DOing' of z causes a loop back and update in the value of the x and y vectors. Every mathematical pass through the 4-2-1 loop is likened to every QA distinction (DO₁-DO₅) (Section 4.5)  made from the central I AM [1, 0, 0, 0] and constitutues the individual's experience of the progression of time. The tick of the cosmic clock is seamless to our perception since per (Theorem 5) we cannot attend to all possible distinctions simultaneously. This permits the exploration and consideration of different experiences of flow of time - in emergencies or moments of distress or boredom individuals report feeling that time slows down - that is to say their Personal Space perception remains active at some normalized rate=1 relative to the rate of flow of Consensus Space. Conversely in moments of excitement, pleasure, fun - as individuals report colloquially: "Time flies".    
 
 **The Constant Witness:**
 
