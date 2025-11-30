@@ -270,6 +270,7 @@ The four core theorems (0-3) plus the capacity theorem (4) form one complete cyc
 This entire circuit proceeds as an active process 
 **Example cycle**
 - -Day starts-
+```
 [0, 0, 0, 0] awakens → [1, 0, 0, 0]
    → I AM -awake- (Focus predominantly in Personal space)
      → I HAVE recognition of the agency of focus
@@ -295,15 +296,14 @@ This entire circuit proceeds as an active process
            → I DO choose
            → I DO act on choice
   → I AM with knowledge of the result of the choice
-        → I Can
-- continue the cycle to the final point of the day's activity expressed as -
+        → I CAN continue the cycle to the final point of the day's activity expressed as 
   
   → I AM finished with the day and ready for bed
         → I CAN feel myself getting sleepy
            → I DO decide and go to bed > leading to
   → I AM in bed
   → I AM *dissolved in deep sleep* -- return to [0, 0, 0, 0]
-
+```
 **note:**(the cycling of I CAN to I DO as the metabolic activity can be likened to the 4-2-1 number sequence cycling of the Collatz Conjecture) 
 
 ***UPDATENEEDED***
