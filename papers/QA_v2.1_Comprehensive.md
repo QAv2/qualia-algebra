@@ -268,8 +268,12 @@ The four core theorems (0-3) plus the capacity theorem (4) form one complete cyc
 
 **Active cycling:**
 This entire circuit proceeds as an active process 
-(I AM → I HAVE → I CAN → I DO → Achieve result - loop back through I CAN (continue) - I DO proceed- until I CANNOT → I HAVE limitations → I can either accept the limitation or reject it - I AM with knowledge - I Can - (cycle continue), the pure observer [1,0,0,0] witnesses all phases without ever actually leaving. 
-
+***UPDATENEEDED***
+**Example cycle**
+- -Day starts- [0, 0, 0, 0] awakens -> [1, 0, 0, 0] I AM -awake- (Focus predominantly in Personal space)
+- [1, 0, 0, 0] determine direction of focus -> recognize I HAVE the agency of focus -> consider I CAN -arise from bed now- or -rest and explore Personal space-> I HAVE a choice -> I CAN choose -> I DO choose -> I CAN feel myself getting out of bed -> consider I HAVE to be quick as the floor is cold and my feet are bare -> I CAN move quickly -> I DO quickly cross the room to the carpet -> Cycle repeats in this fashion until/unless an I DO process results in an I CANNOT output. (I AM → I HAVE → I CAN → I DO → Achieve result - loop back through I CAN (continue) - I DO proceed- until I CANNOT → I HAVE limitations → I can either accept the limitation or reject it - I AM with knowledge - I Can - cycle continues to the final point of activity of a day's cycle of - I AM finished with the day and ready for bed > I CAN feel myself getting sleepy > I DO decide to go to bed > leading to I AM in bed > I AM [1, 0, 0, 0] -asleep- return to [0, 0, 0, 0] **note:**(the cycling of I CAN to I DO as the metabolic activity can be likened to the 4-2-1 number sequence cycling of the Collatz Conjecture) 
+***UPDATENEEDED***
+- -
 **The Constant Witness:**
 
 Throughout this entire circuit (I AM → I HAVE → I CAN → I DO → until I CANNOT → I HAVE limitations → I CAN - I AM with knowledge - I CAN - I DO), the pure observer [1,0,0,0] witnesses all phases without ever actually leaving. 
