@@ -3,7 +3,7 @@
 **Version 2.1** 
 *Enhanced with thermodynamic foundations and expanded experimental predictions*
 
-**December 7, 2025**
+**November 29, 2025**
 
 ---
 
