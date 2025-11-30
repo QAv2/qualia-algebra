@@ -258,19 +258,21 @@ The four core theorems (0-3) plus the capacity theorem (4) form one complete cyc
 1. **I AM** (Theorem 0): Pure witness [1,0,0,0] - foundational awareness
 2. **I HAVE** (Theorem 1): Embodied witness [1,x,0,0] - content arises via distinction
 3. **I CAN** (Theorem 2): Possibility opens [1,x,y,0] - affordances from binding
-4. **I DO** (Theorem 3): Choice executed [1,x,y,z] - attention focused, action taken
-
-**Discovery (Constraint):**
-5. **I CANNOT** (Theorem 4): Finite capacity reveals limits - cannot attend to all
+4. **I DO** (Theorem 3): Choice executed [1,x,y,z] - attention focused, action taken until constraint discovery (Theorem 4)
+5. **I CANNOT** (Theorem 4): Finite capacity reveals limits - cannot attend to all distinctions simultaneousely.
 
 **Backward Flow (Knowledge Integration):**
 - Result observed in Personal Space
-- Knowledge flows backward: I CANNOT → I HAVE limitations → I AM (limited/transcendent)
+- Knowledge flows backward: if I CANNOT → I HAVE limitations → I CAN either accept or not that → I AM (limited/transcendent)
 - Integration: Accept (growth in wisdom) or Reject (growth in capability)
+
+**Active cycling:**
+This entire circuit proceeds as an active process 
+(I AM → I HAVE → I CAN → I DO → Achieve result - loop back through I CAN (continue) - I DO proceed- until I CANNOT → I HAVE limitations → I can either accept the limitation or reject it - I AM with knowledge - I Can - (cycle continue), the pure observer [1,0,0,0] witnesses all phases without ever actually leaving. 
 
 **The Constant Witness:**
 
-Throughout this entire circuit (I AM → I HAVE → I CAN → I DO → I CANNOT → I HAVE limitations → I AM with knowledge), the pure observer [1,0,0,0] witnesses all phases without ever actually leaving. 
+Throughout this entire circuit (I AM → I HAVE → I CAN → I DO → until I CANNOT → I HAVE limitations → I CAN - I AM with knowledge - I CAN - I DO), the pure observer [1,0,0,0] witnesses all phases without ever actually leaving. 
 
 The witness doesn't become engaged - it only **appears** to become engaged when identified with content (x,y,z ≠ 0). This is why return to [1,0,0,0] is always possible: the witness never left, we merely forgot to notice it amidst the content.
 
