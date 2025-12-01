@@ -800,7 +800,7 @@ Dissociation: Fragmented [1,0,0,0], multiple observers
 
 ### 4.5 Developmental Operators: The Complete Daily Cycle
 
-The state transitions between consciousness modes are governed by six developmental operators (DO₁-DO₅), forming a complete cycle from potential through manifestation and back to rest. **Each DO from I AM is itself a distinction** - the operators are not separate from the distinction-making process but rather formalize how distinctions emerge and dissolve.
+The state transitions between consciousness modes are governed by five developmental operators (DO₁-DO₅), forming a complete cycle from potential through manifestation and back to rest. **Each DO from I AM is itself a distinction** - the operators are not separate from the distinction-making process but rather formalize how distinctions emerge and dissolve.
 
 
 **DO₁: Awakening (I AM)** [0,0,0,0] → [1,0,0,0]
