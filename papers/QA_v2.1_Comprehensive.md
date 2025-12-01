@@ -540,8 +540,6 @@ Consensus Space (Physical Realm)
 
 **Clarification**: To say "this IS what [0,0,0,0] looks like" would be content and therefore non-equivalent empirically.
 
-**Relationship to Standard Physics**: Mainstream science's "potential space" (quantum superposition, vacuum fluctuations, unmanifest possibilities) is an attempt to deal with reality prior to measurement - something physics struggles with. QA interprets this as [0,0,0,0]: the potential from which [1,0,0,0] (observer) and Consensus Space (observed) both emerge.
-
 **Four-Space Structure**:
 - **Potential Space**: [0,0,0,0] - pre-manifest, formless void (NOT the Cosmic Sector)
 - **Witness Space**: [1,0,0,0] - pure observer, no content
