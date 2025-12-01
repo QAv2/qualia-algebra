@@ -28,7 +28,7 @@ Qualia Algebra (QA) inverts the traditional explanatory order in consciousness s
 
 Concise presentation of the framework suitable for journal submission and general academic audience.
 
-📄 [View Core Paper](papers/QA_v2.1_Core.md)
+📄 [View Core Paper](papers/Qualia_Algebra_v2_Core.md)
 
 ### Comprehensive Paper (52,000 words)
 **Qualia Algebra v2.0: Comprehensive Formalization**
