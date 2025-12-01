@@ -312,7 +312,7 @@ This framework emerged through collaborative development between human insight a
 ### Intellectual Inspiration
 - **Dewey Larson** - For original Reciprocal System conception
 - **Bruce Peret** - For RS2 reevaluation and systematic development  
-- **David Dorsey** - For Prime Scalar Field framework
+- **Damon Dorsey** - For Prime Scalar Field framework
 - **Ancient contemplatives** - For mapping witness consciousness
 - **Modern consciousness researchers** - For empirical grounding
 
