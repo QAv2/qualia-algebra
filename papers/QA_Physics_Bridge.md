@@ -969,7 +969,7 @@ Arises at Level III (Ethical) where life units develop self-reference and intent
 
 **Strength:** Provides mechanism for life as distinct from matter; consciousness is physical (motion-based) yet distinct from simple matter.
 
-**Weakness:** "Motion between space and time" requires clearer formalization; Level III remains poorly developed in RS literature; does not obviously solve the hard problem.
+**Weakness:**  ((PLACEHOLDER)) 
 
 ### 8.3 QA: Fundamental
 
