@@ -1,6 +1,6 @@
 # Qualia Algebra: A Mathematical Framework for Consciousness from First Principles
 
-**Version 2.0**
+**Version 2.2**
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17685405.svg)](https://doi.org/10.5281/zenodo.17685405)
 
