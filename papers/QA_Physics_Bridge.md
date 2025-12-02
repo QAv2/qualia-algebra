@@ -1269,7 +1269,6 @@ These mappings suggest conceptual bridges even when ontologies differ fundamenta
 **For RS/RS2:**
 - How to reconcile formalism with LIGO gravitational wave observations?
 - Can cosmic sector be detected directly?
-- How to develop Level III (consciousness) more rigorously?
 - Can quantitative dark matter distribution predictions be derived?
 
 **For QA:**
