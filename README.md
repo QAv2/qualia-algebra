@@ -29,7 +29,7 @@ Qualia Algebra (QA) inverts the traditional explanatory order in consciousness s
 
 Complete technical development including extended derivations, philosophical analysis, convergent framework comparisons, experimental protocols, AI consciousness criteria, and code implementations.
 
-📄 [View Comprehensive Paper](papers/QA_v2.2_Comprehensive.md)
+📄 [View Comprehensive Paper](papers/Qualia_Algebra_v2.2_Comprehensive.md)
 
 --- 
 
@@ -324,8 +324,12 @@ qualia-algebra/
 ├── CONTRIBUTING.md                    # Contribution guidelines
 │
 ├── papers/                            # Academic papers
-│   ├── QA_v2_Core_Paper.pdf
-│   └── Qualia_Algebra_v2_Comprehensive_Paper.pdf
+│   ├── Cmax_Calculation_Explanation.md
+│   ├── Interest_Function.md
+│   ├── QA_Core_Equations_Explained.md
+│   ├── QA_Physics_Bridge.md
+│   ├── Qualia_Algebra_v2.2_Comprehensive.md
+│   └── Thermodynamic_Cmax_Derivation_v1_1.md 
 │
 ├── code/                              # Python implementations
 │   ├── core/
