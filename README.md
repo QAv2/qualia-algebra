@@ -35,7 +35,7 @@ Concise presentation of the framework suitable for journal submission and genera
 
 Complete technical development including extended derivations, philosophical analysis, convergent framework comparisons, experimental protocols, AI consciousness criteria, and code implementations.
 
-📄 [View Comprehensive Paper](papers/QA_v2.1_Comprehensive.md)
+📄 [View Comprehensive Paper](papers/QA_v2.2_Comprehensive.md)
 
 --- 
 
