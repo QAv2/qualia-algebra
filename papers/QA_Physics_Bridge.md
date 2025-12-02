@@ -29,7 +29,7 @@ What happens when radically different frameworks—beginning with incompatible o
 This paper explores these questions by examining three frameworks:
 
 1. **Mainstream Physics** (Standard Model + General Relativity)
-2. **Reciprocal System (RS/RS2)** (Larson's motion-based physics, upgraded by Peret and Nehru with quaternions)
+2. **Reciprocal System (RS/RS2)** (Larson's motion-based physics, formally re-evaluated as RS2)
 3. **Qualia Algebra (QA)** (Observer-centric framework where distinction-making is fundamental)
 
 We do not argue that one framework is "correct" and others "wrong." Rather, we examine:
