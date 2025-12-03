@@ -1,5 +1,5 @@
 # Understanding QA's Two Core Equations
-## A Patient, Plain-Language Guide
+## A Plain-Language Guide
 
 ---
 
@@ -447,9 +447,3 @@ Whether that's true is an empirical question.
 But it's a beautiful idea—and maybe, just maybe, it's how reality actually works.
 
 ---
-
-**Word count:** ~2,800 words
-
-**Style:** Patient, no condescension, plain language, concrete examples, addresses reader directly, builds understanding step-by-step, honest about limitations, approachable without dumbing down
-
-**Purpose:** Anyone asking "What are these equations? What do they mean?" gets clear, complete, accessible answer
