@@ -1,7 +1,7 @@
 # The Observer Capacity Formula: Theoretical Derivation and Empirical Challenges
 ## Understanding C_max = √(K·B)
 
-**Version 2.0 - Honest Reassessment**
+**Version 2.0**
 
 **Joseph Vanhorn**  
 Independent Researcher  
