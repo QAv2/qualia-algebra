@@ -604,12 +604,6 @@ The framework's strength lies not in philosophical speculation but in mathematic
 
 ---
 
-## Acknowledgments
-
-**Development Methodology**: This framework emerged through collaborative dialogue between human insight and artificial intelligence (Claude, Anthropic), representing an experimental methodology for theory development. The human author provided conceptual direction and synthetic integration; the AI contributed logical analysis, mathematical formalization, and systematic exploration of implications.
-
-**In Memory**: Dedicated to Bruce Peret, whose intellectual courage in developing unconventional theoretical frameworks inspired this work.
-
 ---
 
 **Correspondence**: 
