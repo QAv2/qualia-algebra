@@ -1,7 +1,5 @@
 # Qualia Algebra: A Mathematical Framework for Consciousness from First Principles
 
-**Version 2.2**
-
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17685405.svg)](https://doi.org/10.5281/zenodo.17685405)
 
 A rigorous mathematical framework that derives the structure of conscious experience and physical reality from a single indubitable axiom: "I exist."
@@ -25,11 +23,11 @@ Qualia Algebra (QA) inverts the traditional explanatory order in consciousness s
 
 
 ### Comprehensive Paper (52,000 words)
-**Qualia Algebra v2.2: Comprehensive Formalization**
+**Qualia Algebra: Comprehensive Formalization**
 
 Complete technical development including extended derivations, philosophical analysis, convergent framework comparisons, experimental protocols, AI consciousness criteria, and code implementations.
 
-📄 [View Comprehensive Paper](papers/Qualia_Algebra_v2.2_Comprehensive.md)
+📄 [View Comprehensive Paper](papers/Qualia_Algebra_Comprehensive.md)
 
 --- 
 
@@ -328,7 +326,7 @@ qualia-algebra/
 │   ├── Interest_Function.md
 │   ├── QA_Core_Equations_Explained.md
 │   ├── QA_Physics_Bridge.md
-│   ├── Qualia_Algebra_v2.2_Comprehensive.md
+│   ├── Qualia_Algebra_Comprehensive.md
 │   └── Thermodynamic_Cmax_Derivation_v1_1.md 
 │
 ├── code/                              # Python implementations
@@ -378,7 +376,6 @@ A: Run the code, test predictions with available data, conduct experiments, prov
 
 ## Version History
 
--**V2.2** (December 2025) - (PLACEHOLDER)
 - **v2.0** (November 2025) - Complete formalization with convergent framework analysis, expanded mathematical rigor, comprehensive experimental protocols
 - **v1.0** (Unpublished) - Initial formulation with core axioms and basic derivations
 
