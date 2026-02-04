@@ -1,6 +1,6 @@
 # Qualia Algebra: A Mathematical Framework for Consciousness from First Principles
 
-**Version 2.2 - Core Paper** 
+**Core Paper** 
 
 **December 2025**
 
@@ -550,7 +550,8 @@ Qualia Algebra demonstrates that consciousness and physical reality can be rigor
 4. **Resolves classical problems**: Hard problem, measurement problem, combination problem
 5. **Enables applications**: AI consciousness criteria, meditation algorithms, clinical interventions
 
-The framework's strength lies not in philosophical speculation but in mathematical precision and empirical testability. Version 2.2 represents a mature formulation ready for systematic experimental investigation.
+The framework's strength lies not in philosophical speculation but in mathematical precision and empirical testability. 
+
 
 **From [1,0,0,0], all of reality unfolds.**
 
@@ -596,7 +597,7 @@ The framework's strength lies not in philosophical speculation but in mathematic
 
 15. Peret, B. (2011-2016). *Reciprocal System v2 Papers* (RS2-101 through RS2-109). Reciprocal System Research Society.
 
-16. Vanhorn, J. (2025). Qualia Algebra: A Mathematical Framework for Consciousness from First Principles (Version 2.2). Zenodo. https://doi.org/10.5281/zenodo.17685405
+16. Vanhorn, J. (2025). Qualia Algebra: A Mathematical Framework for Consciousness from First Principles. Zenodo. https://doi.org/10.5281/zenodo.17685405
 
 ### AI and Tools
 
