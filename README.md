@@ -4,6 +4,8 @@
 
 A rigorous mathematical framework that derives the structure of conscious experience and physical reality from a single indubitable axiom: "I exist."
 
+**[Explore the Interactive Mind Map](https://qav2.github.io/qualia-algebra/)** — 41 nodes across 5 concentric rings, visualizing the full framework from Axiom 0 through applications.
+
 ---
 
 ## Overview
@@ -320,6 +322,12 @@ qualia-algebra/
 ├── LICENSE                            # CC BY 4.0 license
 ├── requirements.txt                   # Python dependencies
 ├── CONTRIBUTING.md                    # Contribution guidelines
+│
+├── site/                              # Interactive mind map (GitHub Pages)
+│   ├── index.html
+│   ├── data.js
+│   ├── css/style.css
+│   └── js/main.js
 │
 ├── papers/                            # Academic papers
 │   ├── Cmax_Calculation_Explanation.md
