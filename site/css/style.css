@@ -55,12 +55,15 @@ html, body {
   letter-spacing: 0.5px;
   color: #c9a84c;
   margin-bottom: 4px;
+  pointer-events: auto;
+  cursor: pointer;
 }
 
-.map-header h1 a {
-  color: inherit;
+.map-header h1 a,
+.map-header h1 a:visited,
+.map-header h1 a:link {
+  color: #c9a84c;
   text-decoration: none;
-  pointer-events: auto;
   border-bottom: 1px dotted rgba(201, 168, 76, 0.35);
   transition: border-color 0.2s;
 }
