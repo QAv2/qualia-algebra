@@ -55,21 +55,22 @@ html, body {
   letter-spacing: 0.5px;
   color: #c9a84c;
   margin-bottom: 4px;
-  pointer-events: auto;
-  cursor: pointer;
 }
 
-.map-header h1 a,
-.map-header h1 a:visited,
-.map-header h1 a:link {
+.header-site-link {
+  display: inline-block;
+  pointer-events: auto;
   color: #c9a84c;
+  font-size: 11px;
   text-decoration: none;
   border-bottom: 1px dotted rgba(201, 168, 76, 0.35);
-  transition: border-color 0.2s;
+  transition: border-color 0.2s, color 0.2s;
+  margin-top: 4px;
 }
 
-.map-header h1 a:hover {
+.header-site-link:hover {
   border-color: #c9a84c;
+  color: #e8d5a0;
 }
 
 .map-header p {
