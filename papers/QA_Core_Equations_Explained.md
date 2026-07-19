@@ -92,6 +92,8 @@ n_max = 6,000 / 2,000 = 3 dimensions
 
 Not because space IS 3D fundamentally. Because our capacity optimizes at 3D given our brain's constraints.
 
+*(Honesty note, v3: the ~2,000-per-dimension figure is calibrated — chosen consistent with observed 3D perception and working-memory data — not derived from first principles. The capacity argument brackets the answer near 3; the selection of exactly 3 is a posited convergence supported by knot-theoretic and quaternionic structure. See the Comprehensive, Section 3.2.)*
+
 ---
 
 ## Equation 2: Interest Function

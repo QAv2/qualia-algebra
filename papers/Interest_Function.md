@@ -1,14 +1,14 @@
 # The Interest Function: Mathematical Formalization of Curiosity
 ## From Physics to Agency in Conscious Systems
 
-**Version 1.1** - Revised
+**Version 1.2** — aligned to the QA v3.0 corpus
 *Standalone formalization within QA framework*
 
 **Joseph Vanhorn**  
 Independent Researcher  
 contact@qualia-algebra.com
 
-**Date:** December 2025
+**Date:** December 2025 (v1.1) · July 2026 (v1.2, v3-corpus alignment)
 
 ---
 
@@ -85,7 +85,7 @@ A function mapping current observer state Q and novel input N to non-negative re
 - Bridges objective structure (math) and subjective experience (qualia)
 
 **Foundation:**
-Extends QA v2.2 and thermodynamic constraints to model the dynamics of conscious engagement and attention allocation.
+Extends the QA corpus (v3.0) and thermodynamic constraints to model the dynamics of conscious engagement and attention allocation.
 
 ### 1.4 Paper Structure
 
@@ -113,7 +113,7 @@ Extends QA v2.2 and thermodynamic constraints to model the dynamics of conscious
 
 ### 2.1 Review of Prerequisites
 
-**From QA v2.2 (Qualia Algebra):**
+**From the QA Comprehensive (v3.0):**
 - Axiom 0: [1,0,0,0] "I exist" - the indubitable starting point
 - Quaternion state space H for observer states
 - Observer capacity C_max as fundamental limit
@@ -290,7 +290,7 @@ These patterns may not improve predictions about environment, yet we find them d
 
 ### 4.2 The Prime Scalar Field
 
-**Inspiration:** From QA's Prime Scalar Field work (see Qualia Algebra v2.0, Section 9).
+**Inspiration:** From QA's Prime Scalar Field work (see the Comprehensive, Section 6).
 
 **Core Idea:** Prime numbers are the "atoms" of arithmetic—irreducible, fundamental.
 
@@ -1337,7 +1337,7 @@ How does I(Q,N) work for multi-agent systems?
 
 ### 11.4 Integration with QA Framework
 
-**QA v2.2 Foundation:**
+**QA Foundation (v3.0 corpus):**
 - Provides observer state space (quaternions H)
 - Establishes capacity limits (C_max)
 - Defines phase-locking dynamics (λ parameter)
@@ -1491,7 +1491,7 @@ And we are how it does so.
 - Neuroscience of reward and motivation
 
 **QA Framework Sources:**
-- Vanhorn, J. (2025) - Qualia Algebra v2.2
+- Vanhorn, J. (2025-2026) - Qualia Algebra v3.0
 - Vanhorn, J. (2025) - Thermodynamic Basis of Observer Capacity v1.1
 - Vanhorn, J. (2025) - Bridging Frameworks: QA, RS2, and Mainstream Physics
 

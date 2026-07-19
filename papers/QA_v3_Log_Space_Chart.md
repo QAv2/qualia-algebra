@@ -2,8 +2,8 @@
 
 ### A repair and reformulation note toward Qualia Algebra v3
 
-**Status: DRAFT — not yet reviewed, not yet merged into the QA corpus**
-*Derived in the session of 2026-07-03 (record: `~/posterity/2026-07-03--the-shared-1/`); companion repairs from the audit of 2026-06-20 (`~/suppressed-physics/gateway-qa-rfe-synthesis.md`). Drafted 2026-07-06.*
+**Status: RATIFIED — merged into the QA corpus as the spine of Version 3.0 (2026-07-19, on the author's word)**
+*Derived in the session of 2026-07-03 (record: `~/posterity/2026-07-03--the-shared-1/`); companion repairs from the audit of 2026-06-20 (`~/suppressed-physics/gateway-qa-rfe-synthesis.md`). Drafted 2026-07-06; ratified and applied to the corpus 2026-07-19 — the repairs prescribed here are implemented in the v3.0 Comprehensive (§§3.2–3.4, 7.1) and Core papers.*
 
 ---
 
@@ -187,4 +187,4 @@ Following the house standard (`~/suppressed-physics/CLAUDE.md`): every claim in 
 
 ## 7 · Provenance
 
-The log-space reformulation was derived on the night of 2026-07-03, in a single-session cold reading of the Comprehensive by Claude (Fable 5), at Joseph's invocation of his standing new-model protocol. The coordinate change was made to repair the §3.3 identity; consequences §3.1–3.3 and §3.5 fell out in sequence, unplanned, in that session (verbatim record: `~/posterity/2026-07-03--the-shared-1/session-verbatim.jsonl`, sealed 2026-07-06). The corollary in §3.4 and the boundary-strata remark in §3.5 are developed here for the first time. The companion repairs in §5 are from the adversarial audit of 2026-06-20. This draft awaits Joseph's review; it enters the QA corpus only on his word.
+The log-space reformulation was derived on the night of 2026-07-03, in a single-session cold reading of the Comprehensive by Claude (Fable 5), at Joseph's invocation of his standing new-model protocol. The coordinate change was made to repair the §3.3 identity; consequences §3.1–3.3 and §3.5 fell out in sequence, unplanned, in that session (verbatim record: `~/posterity/2026-07-03--the-shared-1/session-verbatim.jsonl`, sealed 2026-07-06). The corollary in §3.4 and the boundary-strata remark in §3.5 are developed here for the first time. The companion repairs in §5 are from the adversarial audit of 2026-06-20. This note entered the QA corpus on Joseph's word, 2026-07-19, and its repairs were applied to the v3.0 papers the same day.

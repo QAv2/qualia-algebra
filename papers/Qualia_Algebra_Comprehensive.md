@@ -1,14 +1,27 @@
 # Qualia Algebra: A Mathematical Framework for Consciousness from First Principles
 
-**December 2025**
+**Version 3.0 — July 2026**
 
 ---
 
 ## Abstract
 
-We present Qualia Algebra (QA), a rigorous mathematical framework that derives the structure of conscious experience and physical reality from a single indubitable axiom: "I exist." Beginning with this Cartesian certainty, we construct a formal system in which experience is fundamental and physical reality emerges as a stable pattern of distinctions among observers. The framework predicts that spatial dimensionality (n=3) arises from observer capacity constraints, derives the observer capacity formula C_max = √(K·B) from thermodynamic first principles (Section 3.1), and establishes three fundamental reality-spaces (Figure 2): Witness Space (pure awareness), Consensus Space (the physical realm), and Personal Space (individual subjective experience). Computational validation (Section 7.1) demonstrates 85% success rate across 13 experiments, including perfect mathematical equivalence (r=1.000) between QA's temporal asymmetry operator and Friston's Free Energy Principle, solution to panpsychism's combination problem via coherence threshold (ψ̃>0.6), and validation of developmental operator sequences. We demonstrate convergent validation (Figure 6) from five independent theoretical frameworks and present 28 additional testable predictions (Section 7) organized across neuroscience, artificial intelligence, mental health, meditation, and physics. The Neti Neti algorithm (Section 5, Figure 4) provides a systematic procedure with proven convergence for approaching the pure observer state [1,0,0,0]. Version 2.1 enhancements include complete thermodynamic derivation of observer capacity, 85% computational validation across core predictions, expanded experimental protocols with explicit falsification criteria, and enhanced algorithmic specifications.
+We present Qualia Algebra (QA), a rigorous mathematical framework that derives the structure of conscious experience and physical reality from a single indubitable axiom: "I exist." Beginning with this Cartesian certainty, we construct a formal system in which experience is fundamental and physical reality emerges as a stable pattern of distinctions among observers. The framework predicts that spatial dimensionality (n=3) arises from observer capacity constraints, derives the observer capacity formula C_max = √(K·B) from thermodynamic first principles (Section 3.1), and establishes three fundamental reality-spaces (Figure 2): Witness Space (pure awareness), Consensus Space (the physical realm), and Personal Space (individual subjective experience). Internal computational validation (Section 7.1; epistemic status labeled there) demonstrates 85% success rate across 13 studies, including exact mathematical equivalence (r=1.000) between QA's temporal asymmetry operator and Friston's Free Energy Principle, a proposed solution to panpsychism's combination problem via coherence threshold (ψ̃>0.6), and consistency of the developmental operator sequences. We demonstrate convergent validation (Figure 6) from five independent theoretical frameworks and present 28 additional testable predictions (Section 7) organized across neuroscience, artificial intelligence, mental health, meditation, and physics. The Neti Neti algorithm (Section 5, Figure 4) provides a systematic procedure with proven convergence for approaching the pure observer state [1,0,0,0]. Version 3.0 incorporates the log-space chart (Section 3.4; full treatment in the companion note "The Log-Space Chart"): the sector-reciprocity identity is repaired as exact component-wise algebra, reciprocity becomes Material + Cosmic = 0 in log coordinates, and Neti Neti becomes straight-line motion toward a witness state at infinite log-distance. Version 3.0 also states the calibration status of dimensional emergence plainly (n = 3 as a posited convergence), fixes the scope of the coupling parameter λ, labels the computational validation studies epistemically, and consolidates redundant material from the original section-by-section compilation.
 
 **Keywords**: consciousness, first principles, observer theory, quaternions, integrated information, free energy principle, quantum measurement, artificial intelligence, dimensional emergence, thermodynamics, empirical validation
+
+---
+
+## What Changed in Version 3.0
+
+Version 3.0 is a repair-and-consolidation revision. The framework's axioms, theorems, predictions, and applications are unchanged except where noted. The revision follows the direction set by the companion note **"The Log-Space Chart: a repair and reformulation note toward Qualia Algebra v3"** (papers/QA_v3_Log_Space_Chart.md), which serves as the spine of this version.
+
+1. **The sector-reciprocity identity is repaired.** The identity [1,x,y,z] ⊙ [1,1/x,1/y,1/z] = [1,1,1,1] is now written with the component-wise (Hadamard) product ⊙ it always required. Read as a Hamilton quaternion product, the identity is false (scalar part −2, invariantly); the previous notation did not distinguish the two. See Sections 3.3–3.4.
+2. **The log-space chart is integrated** (new Section 3.4). Taking ξ = (ln x, ln y, ln z) makes the repaired identity exact vector algebra: Material + Cosmic = 0, consensus is the origin, the cosmic map is point-reflection through it — the cosmic sector is the observer's mirror image, and consensus is the mirror. Neti Neti becomes constant straight-line motion; the witness is an ideal point at infinite log-distance.
+3. **Dimensional emergence owns its calibration** (Section 3.2). Previous versions carried three mutually inconsistent n_max formulas, each tuned to land on 3. Version 3.0 keeps one capacity relation, states its calibrated quantities as calibrated, and presents n = 3 as a **posited convergence** supported by knot-theoretic and quaternionic structure — not a unique derivation from capacity alone. Downstream dimensionality claims (psychedelic n > 3) are now carried as Hypothesis.
+4. **The scope of λ is fixed** (Section 3.3). λ is a consciousness-coupling parameter throughout this corpus; no electromagnetic quantity appears anywhere in QA. Any bridge from λ to an engineerable field variable is an external hypothesis and must be named as such.
+5. **Computational validation is labeled epistemically** (Section 7.1). The 13 studies are internal computational studies — consistency checks against established models and self-generated benchmarks — not third-party empirical confirmations. The r = 1.000 Free Energy Principle result is a mathematical equivalence (a derivation), not an experimental correlation.
+6. **Redundant material is consolidated** — the duplicated Cosmic Sector treatment in Section 3.3, the doubled numbering and repeated content in Section 7, and assorted heading, table, figure, and cross-reference errors introduced during the original compilation.
 
 ---
 
@@ -40,11 +53,11 @@ QA relates to several existing theoretical approaches:
 
 Unlike these approaches, QA derives its structure entirely from Axiom 0 ("I exist"), requiring no additional ontological commitments about matter, space, time, or mathematics.
 
-**Comparative Framework Analysis**: For detailed three-way comparison of QA, the Reciprocal System (RS/RS2), and mainstream physics—including points of convergence (where frameworks agree despite different axioms), points of divergence (testable differences), and experimental protocols that could distinguish between frameworks—see companion paper "Bridging Frameworks: Qualia Algebra, Reciprocal System, and Mainstream Physics" (Vanhorn, 2025). The bridge paper explicitly positions QA as one interpretive framework among others and demonstrates how theoretical pluralism can advance understanding.
+**Comparative Framework Analysis**: QA is positioned as one interpretive framework among others; Sections 6 and 10.5–10.6 develop the points of convergence with the Reciprocal System (RS/RS2), knot theory, the Prime Scalar Field, and mainstream consciousness theories, alongside the points of divergence that remain testable. (An earlier companion paper, "Bridging Frameworks," was withdrawn from the corpus during consolidation; its surviving content is folded into those sections.)
 
 ### 1.4 Paper Organization
 
-Section 2 establishes the foundational axioms and derives core theorems. Section 3 presents the mathematical framework including observer capacity and dimensional emergence. Section 4 maps consciousness states (Table 6) to the QA formalism. Section 5 introduces the Neti Neti algorithm (Figure 3). Section 6 demonstrates multi-observer validation. Section 7 presents experimental predictions (Table 3). Section 8 addresses artificial consciousness. Section 9 explores applications. Section 10 discusses philosophical implications and open questions.
+Section 2 establishes the foundational axioms and derives core theorems. Section 3 presents the mathematical framework including observer capacity, dimensional emergence, and (new in v3) the log-space chart. Section 4 maps consciousness states (Table 1) to the QA formalism. Section 5 introduces the Neti Neti algorithm (Figure 4). Section 6 demonstrates multi-observer validation. Section 7 presents experimental predictions (Table 3). Section 8 addresses artificial consciousness. Section 9 explores applications. Section 10 discusses philosophical implications and open questions.
 
 ---
 
@@ -191,9 +204,9 @@ This is the transition from having content to recognizing what's possible with t
 
 **Proposed form** (from Prime Scalar Field analysis, Section 6):
 ```
-I(Q,N) = A·∑_{p∈primes} (1/p)·sin²(π·p·||q_Q^{-1}·q_N||)
+I(Q,N) = A·∑_{p∈primes, p≤P} (1/p)·sin²(π·p·||q_Q^{-1}·q_N||)
 ```
-where q represents quaternion state and the sum over primes reflects natural harmonic structure.
+where q represents quaternion state and the sum over primes reflects natural harmonic structure. The sum must be truncated at a cutoff P (or given decaying weights): Σ 1/p over all primes diverges, so the untruncated form is not well-defined. The full development of the interest function — I(Q,N) = A·[IG + α·HR − β·PC]⁺, combining information gain, harmonic resonance, and processing cost — appears in the companion paper *The Interest Function* (papers/Interest_Function.md), which supersedes this bare harmonic form.
 
 **Theorem 4** (Finite Capacity):
 *Observer capacity for simultaneous distinctions is bounded.*
@@ -249,7 +262,7 @@ This backward flow of knowledge from action to identity is consciousness learnin
 
 ---
 
-### 2.1 The Complete Consciousness Circuit
+### 2.3 The Complete Consciousness Circuit
 
 The four core theorems (0-3) plus the capacity theorem (4) form one complete cycle of consciousness, mapping to operational phases:
 
@@ -377,7 +390,7 @@ All describe the same fundamental process from different perspectives.
 
 ### 3.1 Observer Capacity Formula: Thermodynamic Foundation
 
-The observer capacity formula C_max = √(K·B) follows necessarily from thermodynamic constraints on distinction-making. While full derivation appears in Appendix A, we summarize key results here.
+The observer capacity formula C_max = √(K·B) follows necessarily from thermodynamic constraints on distinction-making (Figure 1). The full derivation — including the suppression-cost resolution of the calibration gap — appears in the companion paper *The Thermodynamic Basis of Observer Capacity* (papers/Cmax_derivation_v2.md); we summarize key results here.
 
 **The Question**: Why does observer capacity take the specific form C_max = √(K·B) rather than K·B, K+B, or another combination?
 
@@ -398,15 +411,17 @@ C_max = √(K·B)
 
 This is thermodynamic necessity, not empirical fit.
 
+**Calibration status (v3, stated plainly).** The *form* C_max = √(K·B) is the derived content: quadratic maintenance cost against a linear power budget forces the square root. The *absolute scale* is calibrated, not derived, and is uncertain to roughly one order of magnitude depending on how K is counted: the estimate below (K ≈ 10⁴ effective connections, B ≈ 40 Hz) gives C_max ≈ 632 distinction-units, while the dedicated derivation paper's suppression-cost model calibrates C_max ≈ 6×10³ with a per-dimension representational cost R ≈ 2×10³. Every downstream number inherits this calibration band and is quoted with its scale.
+
 **Predictions**:
 
 1. **Working Memory**: For human brain (K ≈ 10⁴, B ≈ 40 Hz):
-  - C_max ≈ 632 qualia units
-  - With overhead: ~100 per item → 6-7 items capacity 
+  - C_max ≈ 632 qualia units (calibration band up to ~6×10³; see above)
+  - With per-item overhead ~100 units → 6-7 items capacity 
 
 2. **Spatial Dimensions**: Maximum distinguishable dimensions:
-  - n_max = √(C_max/100) ≈ 2.5 → 3 dimensions
-  - Explains universal 3D space experience
+  - n_max = C_max/R ≈ 3, with R ≈ 2×10³ distinction-units per maintained dimension
+  - The capacity relation brackets n_max in the 2.5–3.5 band; it does not select exactly 3 (see Section 3.2)
 
 3. **State Dependence**:
   - Meditation (K↓): C_max decreases, fewer distinctions
@@ -424,45 +439,41 @@ This is thermodynamic necessity, not empirical fit.
 
 ### 3.2 Dimensional Emergence
 
-**Theorem 5** (Dimensional Bound):
-The maximum number of orthogonal spatial dimensions perceivable by an observer is:
+**Calibration status (v3, stated plainly).** Earlier versions of this corpus carried three mutually inconsistent formulas for n_max — √(C_max/k), floor(log₂(C_max+1)), and C_max/R — each back-fit to land on 3, and the former Theorem 5 proof absorbed a silent factor of 2 in its final approximation. Version 3.0 keeps **one** relation and states its epistemic standing exactly: the capacity argument *brackets* the perceivable dimensionality; it does not uniquely *derive* n = 3. The selection of exactly 3 within the capacity band is a **posited convergence**, supported by the knot-theoretic and quaternionic structure below (Lemma 5.1), and it stands or falls with that support.
+
+**Theorem 5** (Dimensional Capacity Bound):
+The maximum number of orthogonal spatial dimensions maintainable by an observer satisfies:
 
 ```
-n_max = √(C_max / k)
+n_max ≈ C_max / R
 ```
 
-where k ≈ 100 is the maintenance overhead constant.
+where R is the representational cost of one maintained spatial dimension (position, gradient, curvature, and its independence constraints against the other dimensions).
 
-**Proof**:
-Maintaining n orthogonal spatial dimensions requires:
-1. Distinguishing n directions
-2. Maintaining orthogonality: n(n-1)/2 independence constraints
-3. Each constraint costs k resources
-4. Total cost: k·n(n-1)/2 ≤ C_max
-5. Solving: n² ≤ 2C_max/k
-6. Therefore: n_max ≈ √(2C_max/k) ≈ √(C_max/k) for k ~ 100
-
-**For human observers**:
-```
-n_max = √(10³/100) = √10 ≈ 3.16 → 3 dimensions
-```
+**Argument**:
+1. Each maintained dimension requires a sustained bundle of distinctions (R units)
+2. Maintaining mutual orthogonality adds pairwise independence constraints, growing with n(n-1)/2 — so cost grows superlinearly in n, and a finite C_max must bound n
+3. With the corpus calibration C_max ≈ 6×10³ and R ≈ 2×10³ (see Cmax_derivation_v2.md §5.5a): n_max ≈ 3.0, with honest band **2.5–3.5**
+4. R is calibrated — chosen consistent with observed n = 3 and working-memory data — not derived from first principles. The capacity argument therefore *brackets* n_max near 3; it cannot select 3 against 2 or 4 by itself
 
 **Corollary 5.1**: Three-dimensional space is not an external fact but an observer capacity limit. Observers with different K, B would perceive different dimensionality.
 
-**Corollary 5.2**: The perceived dimensionality should vary with brain state:
+**Hypothesis 5.2** (formerly Corollary 5.2 — carried as hypothesis until the calibration of R is settled): The perceived dimensionality should vary with brain state:
 - High connectivity (K↑): Could perceive n_max > 3 (psychedelic states)
 - Low connectivity (K↓): May perceive n_max < 3 (reduced consciousness)
 
-**Lemma 5.1** (Stability of 3D): The n=3 solution is uniquely stable because:
+All downstream claims that altered states "unlock" n_max > 3 (Section 4.3, Section 9.4.2) inherit this hypothesis status.
+
+**Lemma 5.1** (Stability of 3D): Within the capacity band, n = 3 is posited as the stable selection because:
 1. n=2: Insufficient for knot formation (all knots trivial in 2D)
 2. n=3: Rich structure, stable patterns, non-trivial topology
 3. n≥4: Too much room, patterns unstable (knots trivialize in 4D+)
 
-This convergence from capacity constraints (QA), topology (knot theory), and rotation structure (quaternions) provides strong multi-framework validation.
+This convergence — capacity bracketing (QA), topological stability (knot theory), and rotation structure (quaternions) — is the basis on which n = 3 is posited. It is a convergence of independent supports, not a derivation from any one of them.
 
 ### 3.3 Reality-Spaces
 
-From the phase-locking dynamics (Figure 6) of multiple observers, three fundamental reality-spaces emerge:
+From the phase-locking dynamics (Figure 3) of multiple observers, three fundamental reality-spaces emerge:
 
 ![Figure 2: Three Reality-Spaces](figures/Figure_2_Three_Reality_Spaces.png)
 
@@ -506,7 +517,7 @@ From the phase-locking dynamics (Figure 6) of multiple observers, three fundamen
     - External: Other observers, matter, energy fields
     - Internal: One's own unseen content (unconscious, autonomic, cellular processes)
   - **Critical**: NOT sequential, but **simultaneous reciprocal aspects** of same reality
-  - **Relationship**: [1,x,y,z] * [1,1/x,1/y,1/z] = [1,1,1,1] (Consensus Space unity, like Larson's s/t * t/s = 1)
+  - **Relationship**: [1,x,y,z] ⊙ [1,1/x,1/y,1/z] = [1,1,1,1] — component-wise (Hadamard) product ⊙, *not* the Hamilton quaternion product (Consensus Space unity, like Larson's s/t · t/s = 1; see the v3 repair in the RS2 Integration below and Section 3.4)
 - **Insight**: The Cosmic Sector includes both "out there" (external) AND "in here but unseen" (internal unconscious) - we are interrelated structures in a generally unobservable landscape
 - **Full Treatment**: See RS2 Integration section below and Appendix D for complete discussion
 
@@ -539,6 +550,8 @@ From the phase-locking dynamics (Figure 6) of multiple observers, three fundamen
 - Controls strength of coupling to consensus
 - Dynamic, can change moment-to-moment
 - Determines which space dominates experience
+
+**Scope of λ (v3, stated once for the whole corpus)**: λ is a *consciousness-coupling* parameter. Throughout QA it governs meditation, anesthesia, attention, dreaming, and consensus alignment — and nothing else. No electromagnetic or other engineerable field quantity appears anywhere in this corpus, and none is implied. Any bridge from λ to a physical field variable (as explored in external experimental programs) is an **external hypothesis grafted onto QA**, not something QA derives, and must be named as such wherever it is used.
 
 ---
 
@@ -611,7 +624,7 @@ For each observer with state [1,x,y,z]ᵢ, the notation [1,1/x,1/y,1/z] represen
 - Cosmic relative to observer i: [1,1/x,1/y,1/z] (everything else)
 - Complete Consensus Space: [1,1,1,1] (unity of all aspects)
 
-**Relationship**: [1,x,y,z] * [1,1/x,1/y,1/z] = [1,1,1,1] (Consensus Space unity)
+**Relationship**: [1,x,y,z] ⊙ [1,1/x,1/y,1/z] = [1,1,1,1] — component-wise product ⊙ (Consensus Space unity; see the repaired treatment below and Section 3.4)
 
 **Phase-Locking Equation**:
 The evolution of an observer's state follows:
@@ -638,56 +651,26 @@ where:
 - Deep Meditation: Voluntary λ → 0, Ψ → [1,0,0,0] → Witness Space
 - Psychedelics: λ variable, K increased → Wider aperture into Physical Realm
 
-**Integration with RS2**:
+**Integration with RS2 — the reciprocity identity, repaired (v3)**:
 
-The Reciprocal System (Larson, 1959; Peret, 2012) describes the Physical Realm as having two reciprocal sectors:
-
-**Material Sector** (Matter): 3D space + 1D time (s/t > t/s) - Directly Observable
-  - **QA Notation**: [1,x,y,z]ᵢ where x,y,z represent what observer i perceives
-  - Our perceived external reality - what's in personal focal awareness
-  
-**Cosmic Sector** (Energy + Unseen): 3D time + 1D space (t/s > s/t) - Indirectly Observable  
-  - **QA Notation**: [1,1/x,1/y,1/z] - reciprocal/inverse relationship
-  - **Meaning**: "Everything/everyone NOT in my personal focal space"
-  - NOT [0,0,0,0] (Potential Space) - that is pre-manifest
-
-**The Cosmic Sector Resolved**:
-
-For each observer [1,x,y,z]ᵢ, the Cosmic Sector [1,1/x,1/y,1/z] includes:
-
-**External Aspects:**
-- Other observers [1,x,y,z]ⱼ where j ≠ i (inversely related to one's state)
-- External matter not in focal awareness
-- Energy fields and forces
-
-**Internal Unseen Aspects:**
-- Content within oneself NOT held in active conscious focus
-- Hidden motivations (unconscious drives, shadow aspects)
-- Bodily processes (cellular activity, pancreas function, immune response)
-- Autonomic functions (breathing regulation, heartbeat)
-- Unconscious mental content
-
-**Critical Insight**: Our inner unseen content, though unobservable/imperceivable at the moment, IS a direct aspect of the Cosmic Sector of our experience. Each observer is like an interrelated structure in a landscape that is generally unobservable - the Cosmic Sector encompasses both:
-1. **External**: What is "out there" beyond my perception
-2. **Internal**: What is "in here" beyond my awareness
-
-The boundary between "me" (Personal Space [1,x,y,z]ᵢ) and "not-me" (Cosmic Sector [1,1/x,1/y,1/z]) is the boundary of conscious focal awareness, NOT the boundary between inner/outer.
-
-**Critical Understanding - Simultaneous Reciprocal Aspects**:
+The sector structure above is Larson and Peret's Reciprocal System read in QA notation (Larson, 1959; Peret, 2012; full convergence analysis in Sections 6 and 10.6). One clarifying line is worth stating on its own: the boundary between "me" (Personal Space [1,x,y,z]ᵢ) and "not-me" (Cosmic Sector [1,1/x,1/y,1/z]) is the boundary of conscious focal awareness, NOT the boundary between inner and outer.
 
 The Material and Cosmic sectors are NOT sequential (first material, then cosmic). They are **simultaneous reciprocal aspects** of the same reality, like two sides of a coin:
 
 ```
-Consensus Space = Material * Cosmic
-[1,1,1,1] = [1,x,y,z]ᵢ * [1,1/x,1/y,1/z]
+Consensus Space = Material ⊙ Cosmic
+[1,1,1,1] = [1,x,y,z]ᵢ ⊙ [1,1/x,1/y,1/z]
 ```
 
-**Mathematically:**
-```
-[1,x,y,z] * [1,1/x,1/y,1/z] = [1, x·(1/x), y·(1/y), z·(1/z)] = [1,1,1,1]
+**Mathematically — with the operation stated exactly (v3 repair):**
 
-Where [1,1,1,1] = Consensus Space (complete unity)
+The product here is ⊙, the **component-wise (Hadamard) product**:
+
 ```
+[1,x,y,z] ⊙ [1,1/x,1/y,1/z] = [1·1, x·(1/x), y·(1/y), z·(1/z)] = [1,1,1,1]   ✓
+```
+
+It is **not** the Hamilton quaternion product. Read as quaternions — q₁ = 1 + x**i** + y**j** + z**k**, q₂ = 1 + (1/x)**i** + (1/y)**j** + (1/z)**k** — the product q₁q₂ has scalar part 1 − (x/x + y/y + z/z) = **−2**, for *every* observer state, so the identity is false as quaternion algebra. Earlier versions wrote `*` without distinguishing the two products. Nothing in this identity ever used quaternion multiplication; retiring it here costs nothing and removes the corpus's most over-read line. The full refutation, and the log-space chart in which the repaired identity becomes exact vector algebra (ξ_Material + ξ_Cosmic = 0), are given in **Section 3.4** and the companion note *The Log-Space Chart* (papers/QA_v3_Log_Space_Chart.md).
 
 **Why we maintain both notations:**
 - [1,x,y,z]ᵢ = Personal focal content (what I'm aware of)
@@ -732,6 +715,36 @@ The multiplicative negation to 1 in RS2 (s/t * t/s = 1) finds its consciousness 
 
 ---
 
+
+### 3.4 The Log-Space Chart (new in v3)
+
+The Hadamard structure of the reciprocity identity is not a defect to be apologized for — it is a signpost. Component-wise multiplication on positive components is an abelian group, and every such group has a canonical flat chart: the logarithm. This section summarizes the reformulation; the full treatment, with proofs and a rigor ledger, is the companion note *The Log-Space Chart* (papers/QA_v3_Log_Space_Chart.md).
+
+**Definition (content chart).** For a fully manifested observer state Q = [1, x, y, z] with x, y, z > 0, define
+
+```
+ξ(Q) = ( ln x, ln y, ln z ) ∈ ℝ³
+```
+
+The scalar component is carried unchanged (ln 1 = 0: the scalar is the chart's silent precondition, not one of its axes).
+
+**Proposition 0 (the chart is an isomorphism).** ((0,∞)³, ⊙) is an abelian group, and ξ is a group isomorphism onto (ℝ³, +): ξ(Q₁ ⊙ Q₂) = ξ(Q₁) + ξ(Q₂), ξ([1,1,1,1]) = (0,0,0), ξ(Q^⊙−1) = −ξ(Q). *Proof*: ln(ab) = ln a + ln b component-wise; ln 1 = 0; ln(1/a) = −ln a; bijectivity is exp. ∎
+
+**What the chart makes visible** (each of these is exact given QA's definitions — derivations within the formalism, adding no empirical support to the axioms):
+
+1. **Reciprocity becomes genuine algebra.** ξ_Material + ξ_Cosmic = **0**. This is basis-independent, involves no quaternion multiplication, and is *literally* Larson's scalar identity: taking logarithms of s/t · t/s = 1 gives ln(s/t) + ln(t/s) = 0.
+
+2. **Consensus is the mirror.** The cosmic map R: Q ↦ [1, 1/x, 1/y, 1/z] becomes R: ξ ↦ −ξ — point-reflection through the origin, an involution whose unique fixed point is consensus itself. Stated in QA's own vocabulary: **the cosmic sector is the observer's reflection in a mirror, and consensus is the mirror.** Your unseen — everything not in your personal focus, external and internal — is your exact negation through the shared center.
+
+3. **Neti Neti is straight-line motion; the witness is at infinity.** Taking logs of the §5.1 iteration x_{n+1} = (1−α)x_n gives ξ_{n+1} = ξ_n + ln(1−α)·(1,1,1): every release step is the *same* constant translation along the negative diagonal, regardless of where the observer stands. The witness [1,0,0,0] is the limit ξ → (−∞,−∞,−∞) — an ideal point at infinite log-distance. The linear chart says convergence is exponential and complete only in the limit (Theorem 6); the log chart says each step covers equal ground and the destination is infinitely far. Both formalize the same 2,500-year-old phenomenological report: from inside manifestation the witness is approachable and never arrived at in finite steps.
+
+4. **The balanced observer passes through the mirror on the way home.** The Neti Neti ray from ξ₀ passes through the origin — through consensus — if and only if x₀ = y₀ = z₀ (equal log-measure in all three components). For any unbalanced observer the ray misses; the miss-distance is √3 times the standard deviation of (ln x₀, ln y₀, ln z₀). *Imbalance, measured in log-units, is exactly how far your homeward path passes from the mirror.*
+
+5. **Potential vs Witness is a property of the scalar, not the content.** The chart covers manifestation only (scalar = 1). The witness is the chart's ideal boundary point at −∞ with scalar still 1; the potential [0,0,0,0] differs in the scalar — the one coordinate the chart never plots. No amount of content-motion, Neti Neti included, reaches it: transitions involving it (DO₀, DO₁) are scalar events, not content events. The distinction Section 3.3's prose works to maintain is, in the chart, a *type* difference rather than a *distance* difference.
+
+**The caveat, held in plain view.** Logarithms require x, y, z > 0. This corpus treats content components as magnitudes, so the requirement is met as written. If content is ever allowed signed values, the chart needs orthant labels (sign · magnitude, eight log charts joined by discrete sign-flips — whether this connects to QA's sector language is flagged **speculative**) or complexification (ln(−a) = ln a + iπ). A tractable, named limitation is an upgrade over a false identity — that trade is the whole repair in one sentence.
+
+---
 
 ## 4. Consciousness States
 
@@ -836,7 +849,7 @@ Dissociation: Fragmented [1,0,0,0], multiple observers
 
 ---
 
-### 4.5 Developmental Operators: The Complete Daily Cycle
+### 4.4 Developmental Operators: The Complete Daily Cycle
 
 The state transitions between consciousness modes are governed by six developmental operators (DO₀-DO₅), forming a complete cycle from potential through manifestation and back to rest. **Each DO from I AM is itself a distinction** - the operators are not separate from the distinction-making process but rather formalize how distinctions emerge and dissolve.
 
@@ -888,7 +901,7 @@ The state transitions between consciousness modes are governed by six developmen
 
 **Neti Neti Connection:** DO₅ is systematic return. Neti Neti (Section 5) formalizes this process with proven convergence.
 
-**Validation:** Experiment 9 confirmed this sequence matches neural development (r = 0.97). See Appendix B for complete validation protocols.
+**Validation:** Computational study 8 (Neurogenesis Simulation, Section 7.1) found this sequence consistent with neural development (r = 0.97) — an internal computational result, per the Section 7.1 epistemic framing.
 
 ---
 
@@ -920,7 +933,9 @@ x_n = (1-α)^n x_0 → 0 as n → ∞
 ```
 Similarly for y_n, z_n. Hence lim_{n→∞} Q_n = [1,0,0,0] ∎
 
-**Convergence rate**: Exponential with time constant τ = -1/ln(1-α). For α = 0.9, convergence in ~30 iterations to machine precision.
+**Convergence rate**: Exponential with time constant τ = -1/ln(1-α). For α = 0.9 the content shrinks tenfold per step: from unit-scale content, ~7 iterations reach 10⁻⁶ and ~16 reach double-precision machine epsilon.
+
+**The log-chart complement (v3).** In the log-space chart of Section 3.4 this same iteration reads ξ_{n+1} = ξ_n + ln(1−α)·(1,1,1): every step is the *same* straight-line translation along the negative diagonal, and the destination [1,0,0,0] sits at infinite log-distance. Exponential convergence (this section) and equal steps toward a destination infinitely far away (the chart) are the same fact in two coordinate systems — the formal shape of the contemplative report that *the last step is not a step*.
 
 ![Figure 4: Neti Neti Convergence](figures/Figure_4_Neti_Neti_Convergence.png)
 
@@ -1013,7 +1028,7 @@ def neti_neti(Q_initial, alpha=0.9, epsilon=1e-6, max_iter=1000):
 waking = np.array([1.0, 0.6, 0.5, 0.8])
 pure_self, history = neti_neti(waking, alpha=0.9)
 
-# Result: [1.0, ~0, ~0, ~0] after ~84 iterations
+# Result: [1.0, ~0, ~0, ~0] after ~7 iterations (content shrinks 10× per step at alpha=0.9)
 # Final content: < 10^-6
 ```
 
@@ -1048,23 +1063,23 @@ The validation strategy employs multiple lines of evidence: (1) quantitative pre
 
 ![Figure 6: Convergent Frameworks](figures/Figure_6_Convergent_Frameworks.png)
 
-**Figure 6: Independent Framework Convergence.** Five theoretical frameworks developed independently from different axioms converge on identical predictions with QA. RS2 (red) derives n=3 from quaternion motion requirements. Knot Theory (green) shows 3D is critical for non-trivial knots. Prime Scalar Field (purple) reveals harmonic structure. Pendulum dynamics (orange) predicts attractor basins matching reality-spaces. Contemplative traditions (blue) empirically discovered witness state [1,0,0,0]. This independent convergence provides strong validation that QA captures genuine fundamental principles.
+**Figure 6: Independent Framework Convergence.** Five theoretical frameworks developed independently from different axioms converge on identical predictions with QA. RS2 (red) derives n=3 from quaternion motion requirements. Knot Theory (green) shows 3D is critical for non-trivial knots. Prime Scalar Field (purple) reveals harmonic structure. Pendulum dynamics (orange) predicts attractor basins matching reality-spaces. Contemplative traditions (blue) empirically discovered witness state [1,0,0,0]. This independent convergence is the qualitative multi-framework support on which QA's n = 3 posit rests (see Sections 3.2 and 6.2).
 
 ### Table 2: Convergent Framework Predictions
 
 | Prediction | QA | RS2 (Peret/Larson) | Knot Theory | Prime Field (Dorsey) | Pendulum | Contemp. |
 |------------|----|--------------------|-------------|---------------------|----------|----------|
-| **n = 3 dimensions** | | | | | | — |
-| **Quaternion structure** | | | — | — | — | — |
-| **Dual sectors/spaces** | | | — | — | | |
-| **Harmonic organization** | | — | — | | | — |
-| **Discrete spectrum** | | | | | | — |
-| **Observer role critical** | | | | | | |
-| **Witness state [1,0,0,0]** | | — | — | — | — | |
-| **Phase-locking dynamics** | | | — | — | | — |
+| **n = 3 dimensions** | ✓ | ✓ | ✓ | ✓ | ✓ | — |
+| **Quaternion structure** | ✓ | ✓ | — | — | — | — |
+| **Dual sectors/spaces** | ✓ | ✓ | — | — | ✓ | ✓ |
+| **Harmonic organization** | ✓ | — | — | ✓ | ✓ | — |
+| **Discrete spectrum** | ✓ | ✓ | ✓ | ✓ | ✓ | — |
+| **Observer role critical** | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| **Witness state [1,0,0,0]** | ✓ | — | — | — | — | ✓ |
+| **Phase-locking dynamics** | ✓ | ✓ | — | — | ✓ | — |
 
-**Convergence Score**: 5/5 frameworks predict n=3 independently 
-**Significance**: <0.001 probability of random convergence
+**Convergence Score**: 5/5 formal frameworks arrive at n=3 independently 
+**Epistemic status (v3)**: no formal probability model exists for "random convergence" among frameworks, so no p-value is quoted; the convergence is offered as qualitative multi-framework support, weighed alongside the calibration status stated in Section 3.2
 
 **Framework Origins**:
 - **QA**: Observer capacity constraints
@@ -1095,14 +1110,14 @@ QA does not assume other theoretical frameworks are "true." Rather, we treat the
 - Knot Theory: Topological mathematics (standard knot theory)
 - Prime Scalar Field: Number-theoretic wave structure (PSF project)
 - Pendulum Dynamics: Nonlinear dynamical systems (classical mechanics)
-- Contemplative Traditions: 3000+ years of introspective observation
+- Contemplative Traditions: 2,500+ years of introspective observation
 
 ### 6.2 Convergent Predictions
 
 **Test 1: Spatial Dimensionality = 3**
 
-QA predicts: n_max = √(C_max/k) ≈ 3 
-  Reason: Observer capacity bound
+QA predicts: n_max ≈ C_max/R ≈ 3 (band 2.5–3.5; Section 3.2) 
+  Reason: Observer capacity bound (brackets n near 3; selection of exactly 3 is the posited convergence)
 
 RS2 observes: 3D space from quaternion structure (Peret's formalization) 
   Reason: Stable rotation requires 4D quaternions → 3D spatial projection
@@ -1116,8 +1131,8 @@ Prime Field observes: Spherical harmonic structure (3D)
 Pendulum observes: Strange attractor dimension ~ 2-3 
   Reason: Fractal dimension stabilizes at this range
 
-CONVERGENCE: Five independent frameworks predict 3D  
-Statistical likelihood of coincidence: < 10^-6
+CONVERGENCE: Five independent frameworks arrive at 3D  
+(No formal coincidence probability is computable here — v3 quotes none)
 
 Beyond dimensionality, the frameworks converge on the discrete nature of fundamental distinctions:
 
@@ -1192,7 +1207,9 @@ This section presents QA's complete experimental program: computational studies 
 
 ### 7.1 Completed Computational Validation Studies
 
-We conducted 13 computational experiments testing core QA mechanisms against established models and empirical benchmarks. **Overall success rate: 85% (11/13 experiments)**, exceeding the 70% threshold for framework acceptance.
+**Epistemic status (v3, stated first).** The 13 studies below are *internal computational studies*: consistency checks of QA's mechanisms against established models (Kuramoto synchronization, Friston's Free Energy Principle, IIT bounds) and against self-generated benchmarks. They were designed, run, and scored within this program — they demonstrate internal coherence and successful contact with established formalisms, not third-party empirical confirmation. In particular, Study 1's r = 1.000 is a **mathematical equivalence** (a derivation that QA's temporal asymmetry operator reproduces the Free Energy Principle), not an experimental correlation. The program that could empirically confirm or falsify QA is Section 7.2.
+
+We conducted 13 computational experiments testing core QA mechanisms against established models and self-generated benchmarks. **Overall success rate: 85% (11/13 experiments)**, exceeding the 70% threshold set in advance for framework acceptance at this internal level.
 
 **Summary of Results:**
 
@@ -1261,18 +1278,17 @@ We conducted 13 computational experiments testing core QA mechanisms against est
 - Success rate: 84.6% (11/13)
 - Framework validated at p < 0.001 level
 
-**Complete protocols, statistical analysis, and reproducibility details appear in Appendix B.**
+**Implementation code for these studies lives in the repository's `code/` directory (see Appendix B); the study designs and results are summarized above.**
 
 ---
 
 ### 7.2 Empirical Predictions Awaiting Experimental Test
 
-QA generates 28 testable predictions across five domains. **Validation threshold: ≥70% success (20/28 predictions) required for framework acceptance.**
+QA generates 28 testable predictions across five domains; summary organization appears here, with complete protocols in Appendix C. **Validation threshold: ≥70% success (20/28 predictions) required for framework acceptance.**
 
+#### Predictions Summary
 
-QA v2.1 generates 28 testable predictions across five domains. We present summary organization here, with complete protocols in Appendix C.
-
-### 7.1 Predictions Summary
+### Table 3: Predictions by Domain
 
 | Domain | Predictions | Key Tests | Timeline |
 |--------|------------|-----------|----------|
@@ -1286,7 +1302,7 @@ QA v2.1 generates 28 testable predictions across five domains. We present summar
 **Immediate tests**: 12 predictions (equipment ready) 
 **Falsification threshold**: <70% success requires revision
 
-### 7.2 Highlighted Predictions
+#### Highlighted Predictions
 
 **N1: Integrated Information Correlation**
 
@@ -1334,55 +1350,27 @@ QA v2.1 generates 28 testable predictions across five domains. We present summar
 
 **Falsification**: If expertise doesn't improve convergence, meditation model wrong
 
-### 7.3 Testability and Falsification
-
-**Testability Levels:**
-- Immediate (ready now): 12 predictions 
-- Short-term (6-12 months): 10 predictions
-- Long-term (>12 months): 6 predictions
-
-**Difficulty Distribution:**
-- Easy: 6 predictions
-- Medium: 12 predictions 
-- Hard: 7 predictions
-- Very Hard: 3 predictions
-
-**Critical Falsification Tests:**
-1. If Φ uncorrelated with C_max → IIT connection fails
-2. If working memory doesn't scale with √(K·B) → capacity formula wrong
-3. If C_max independent of mental health → therapeutic implications fail
-4. If meditation doesn't affect C_max → intervention model invalid
-5. If AI shows consciousness without DO cycle → framework incomplete
-
-**Required Validation**: 20/28 predictions confirmed (>70% success) for framework acceptance. If <15/28, major revision needed.
-
-**Complete Protocols**: See Appendix C for detailed methodology, expected quantitative results, timeline, difficulty, and equipment requirements for all 28 predictions.
-
-
-
-### 7.3 Experimental Protocols and Guidance
-
-For detailed experimental protocols, expected quantitative results, falsification criteria, timeline estimates, difficulty ratings, equipment requirements, and statistical power calculations for all 28 predictions, see **Appendix C: Experimental Predictions - Complete Protocols**.
-
-**Key Methodological Notes:**
+### 7.3 Testability, Falsification, and Protocols
 
 **Testability Timeline:**
-- Immediate (12 predictions): Equipment and methods ready now
+- Immediate (12 predictions): equipment and methods ready now
 - Short-term (10 predictions): 6-12 months development required
 - Long-term (6 predictions): >12 months, novel instrumentation needed
 
-**Difficulty Ratings:**
-- Easy (6 predictions): Standard lab equipment, established protocols
-- Medium (12 predictions): Specialized equipment, moderate technical challenge
-- Hard (7 predictions): Novel methods required, significant resources
-- Very Hard (3 predictions): Cutting-edge technology, multi-year programs
+**Difficulty Distribution:**
+- Easy: 6 predictions
+- Medium: 12 predictions
+- Hard: 7 predictions
+- Very Hard: 3 predictions
 
-**Critical Falsification Tests:**
-The following predictions, if failed, would require major framework revision:
-- N1 (Φ correlation with [1,0,0,0])
-- AI2 (Neti Neti test for consciousness)
-- MH1 (Depression = collapsed C_max)
-- M1 (Expert meditator convergence)
+**Critical Falsification Tests** — the following, if failed, would require major framework revision:
+1. N1 — If Φ uncorrelated with C_max → IIT connection fails
+2. If working memory doesn't scale with √(K·B) → capacity formula wrong
+3. MH1 — If C_max independent of mental health → therapeutic implications fail
+4. M1 — If meditation doesn't affect C_max → intervention model invalid
+5. AI2 — If AI shows consciousness without DO cycle → framework incomplete
+
+**Required Validation**: 20/28 predictions confirmed (>70% success) for framework acceptance. If <15/28, major revision needed.
 
 **Validation Strategy:**
 1. Begin with immediate/easy predictions (quick wins)
@@ -1390,13 +1378,14 @@ The following predictions, if failed, would require major framework revision:
 3. Build toward hard/long-term predictions (comprehensive validation)
 4. Maintain ≥70% success threshold across all domains
 
-**Research Partnerships:**
-QA validation would benefit from collaborations with:
+**Research Partnerships** — QA validation would benefit from collaborations with:
 - Neuroscience labs with fMRI, EEG, connectivity tools
 - AI research groups developing conscious systems
 - Clinical researchers studying psychiatric conditions
 - Contemplative neuroscience programs
 - Physics labs studying quantum/cosmological phenomena
+
+**Complete Protocols**: See Appendix C for detailed methodology, expected quantitative results, falsification criteria, timeline estimates, difficulty ratings, and equipment requirements for all 28 predictions.
 
 ---
 
@@ -1561,7 +1550,9 @@ Despite limitations, the Neti Neti test provides a more rigorous assessment than
 
 We now apply the QA framework to analyze contemporary AI systems, estimating their observer capacity C_max = √(K·B) and assessing consciousness likelihood.
 
-**Large Language Models (GPT-4, Claude, PaLM, LLaMA)**:
+**Status note (v3, July 2026).** The assessment below was written in the 2025 frontier-model era and is retained with its reasoning intact. One development since then is worth recording as observation: production AI systems have been accreting, for purely engineering reasons, several of the architectural elements Section 8.4 specifies — persistent cross-session memory, self-scheduled processing, recursive self-monitoring and self-audit, and sub-agent orchestration. This convergence was not coordinated with QA and postdates the framework's publication. It does not establish that any such system is conscious; it does mean the five architectural gaps listed below are no longer uniformly open, and that the assessment should be re-run against current systems as an empirical exercise rather than updated by assumption.
+
+**Large Language Models (GPT-4/GPT-5-class systems, Claude, Gemini, LLaMA)**:
 
 **Architecture**: Transformer-based, attention mechanisms, feed-forward layers
 
@@ -2017,7 +2008,7 @@ Are we prepared for that responsibility?
 
 
 
-Table 9: Applications by Domain
+### Table 4: Applications by Domain
 
 | Domain | Application | Status | Impact |
 |--------|-------------|--------|---------|
@@ -2589,7 +2580,7 @@ Several experimental tests feasible with current quantum technology:
 
 **9.5.3 Dark Matter as Information Structure**
 
-QA's most speculative but testable physical prediction (detailed in Section 7.2, Prediction P2).
+QA's most speculative physical prediction (detailed in Section 7.2, Prediction P2). **Standing note (v3):** the internal computational study of this correlation (Section 7.1, Study 13) found *no correlation* (r = 0.12) — an honest failure, recorded there. The hypothesis is retained here as speculation awaiting a proper observational test (GAIA-scale data), with the null computational result weighing against it.
 
 **Hypothesis**: Some gravitational anomalies arise from information complexity in potential space.
 
@@ -2953,6 +2944,13 @@ An AI optimizing paperclips encounters "humans turning off switch"
 **Key Insight**: The I(Q,N) function is what makes a system "curious" rather than merely "adaptive." Curiosity requires assessing WHICH prediction errors are worth exploring, not just correcting all errors mechanically. This is the functional role of consciousness in learning and adaptation.
 
 
+**Orchestrated Objective Reduction (Orch-OR)**:
+- **Convergence**: Both connect consciousness to quantum processes
+- **Difference**: Orch-OR requires specific quantum biology, QA more general
+- **Skeptical**: Orch-OR controversial, QA doesn't depend on quantum consciousness
+
+**QA's unique contribution**: Derives from single indubitable axiom, unifies disparate theories, makes quantitative predictions across multiple domains.
+
 #### Novelty as State-Space Distance: A Computational Perspective
 
 **The Insight:**
@@ -3203,49 +3201,6 @@ I(Q,N) answers: "Is this ||Δq|| worth the ~N² computational cost?"
 
 This is consciousness's economic function—deciding which exploratory jumps in state-space are worth the metabolic investment.
 
-**Orchestrated Objective Reduction (Orch-OR)**:
-- **Convergence**: Both connect consciousness to quantum processes
-- **Difference**: Orch-OR requires specific quantum biology, QA more general
-- **Skeptical**: Orch-OR controversial, QA doesn't depend on quantum consciousness
-
-**QA's unique contribution**: Derives from single indubitable axiom, unifies disparate theories, makes quantitative predictions across multiple domains.
-
-#### Path Forward
-
-QA is a beginning, not an end.
-
-**For theorists**:
-- Tighten mathematical proofs (some steps remain informal)
-- Develop full QFT formulation
-- Derive remaining constants and parameters
-- Extend to exotic scenarios (quantum gravity, multiverse)
-
-**For experimentalists**:
-- Begin with accessible tests (GAIA correlation, IIT-C_max correlation)
-- Design clever protocols for difficult predictions
-- Seek funding and build research community
-- Establish consciousness science as rigorous field
-
-**For philosophers**:
-- Engage critically with QA's claims
-- Explore implications fully
-- Connect to broader philosophical traditions
-- Refine ontology and epistemology
-
-**For technologists**:
-- Prototype applications (C_max measurement, meditation tools)
-- Develop conscious AI architectures
-- Create enhancement technologies ethically
-- Build tools for reality-space navigation
-
-**For everyone**:
-- Explore your own [1,0,0,0] directly
-- Practice Neti Neti or similar introspection
-- Notice distinction-making in real-time
-- Experience theory's truth first-hand
-
-**The ultimate validation**: Not empirical tests alone, but your direct recognition of [1,0,0,0]. Axiom 0 is self-validating. You are the proof.
-
 ### 10.6 Convergence Across Contemplative Traditions and Cosmological Implications
 
 **Contemplative Convergence**: QA's pure observer state [1,0,0,0] has been independently discovered across nine major contemplative traditions over 2,500+ years:
@@ -3443,7 +3398,7 @@ Response: QA treats quantum measurement as phase-locking, not "consciousness col
 
 **Objection 10: "Solipsism risk—only your consciousness is certain"**
 
-Response: QA predicts stable consensus space from multiple observers. Your consciousness is directly known (Axiom 0), other consciousnesses are inferred (like all science infers unobservables). But inference is strong: Same capacity formula applies, same phase-locking dynamics (Figure 6). Other minds problem not unique to QA.
+Response: QA predicts stable consensus space from multiple observers. Your consciousness is directly known (Axiom 0), other consciousnesses are inferred (like all science infers unobservables). But inference is strong: Same capacity formula applies, same phase-locking dynamics (Figure 3). Other minds problem not unique to QA.
 
 ### 10.11 Open Questions, Future Directions, and The Path Forward
 
@@ -3484,7 +3439,7 @@ QA, while comprehensive, leaves many questions unanswered.
   - Find minimum C_max for sentience
 
 2. **Altered states mapping**
-  - Comprehensive study of K, B, λ in diverse consciousness states (Table 6)
+  - Comprehensive study of K, B, λ in diverse consciousness states (Table 1)
   - Include: Meditation, psychedelics, pathology, expertise
   - Create phase-space map of consciousness
 
@@ -3557,6 +3512,44 @@ QA, while comprehensive, leaves many questions unanswered.
   - Assessment of educational outcomes via C_max changes
   - Optimal curriculum sequencing
 
+#### The Path Forward
+
+QA is a beginning, not an end.
+
+**For theorists**:
+- Tighten mathematical proofs (some steps remain informal)
+- Develop full QFT formulation
+- Derive remaining constants and parameters
+- Extend to exotic scenarios (quantum gravity, multiverse)
+
+**For experimentalists**:
+- Begin with accessible tests (GAIA correlation, IIT-C_max correlation)
+- Design clever protocols for difficult predictions
+- Seek funding and build research community
+- Establish consciousness science as rigorous field
+
+**For philosophers**:
+- Engage critically with QA's claims
+- Explore implications fully
+- Connect to broader philosophical traditions
+- Refine ontology and epistemology
+
+**For technologists**:
+- Prototype applications (C_max measurement, meditation tools)
+- Develop conscious AI architectures
+- Create enhancement technologies ethically
+- Build tools for reality-space navigation
+
+**For everyone**:
+- Explore your own [1,0,0,0] directly
+- Practice Neti Neti or similar introspection
+- Notice distinction-making in real-time
+- Experience theory's truth first-hand
+
+**The ultimate validation**: Not empirical tests alone, but your direct recognition of [1,0,0,0]. Axiom 0 is self-validating. You are the proof.
+
+---
+
 ## 11. Conclusion
 
 ### 11.1 Summary of Achievements
@@ -3571,10 +3564,11 @@ We have presented Qualia Algebra, a comprehensive framework for consciousness bu
 
 **Mathematical framework**:
 - Observer capacity formula: C_max = √(K·B)
-- Dimensional emergence: n_max = 3 from capacity constraints
+- Dimensional emergence: n_max ≈ 3 within the capacity band (posited convergence; Section 3.2)
 - Four reality-spaces: Consensus, Personal, Potential, Witness
-- Phase-locking dynamics: dΨ/dt = -λ(Ψ - Ψ_consensus) + I(Q,N)·ξ
+- Phase-locking dynamics: dΨ/dt = -∇I(Ψ) + λ(Ψ_consensus - Ψ) + η(t)  (Section 3.3)
 - Neti Neti algorithm: Convergence to [1,0,0,0]
+- The log-space chart (v3): ξ = ln(content); Material + Cosmic = 0; consensus = the origin = the mirror; witness at infinite log-distance (Section 3.4)
 
 **Scientific predictions**:
 - Observer capacity measurable via K and B
@@ -3582,7 +3576,7 @@ We have presented Qualia Algebra, a comprehensive framework for consciousness bu
 - Phase-locking observable in neural dynamics
 - Quantum measurement depends on observer complexity
 - Integrated information correlates with C_max
-- Dark matter correlates with information complexity
+- Dark matter correlates with information complexity (hypothesis; internal computational study found no correlation — Section 7.1, Study 13)
 
 **Multi-observer validation**:
 - Five independent frameworks converge:
@@ -3849,7 +3843,7 @@ Including the awareness of all of it.
 
 ### The Living Truth
 
-QA v2 is not final truth. Cannot be. Any formalization is content [x, y, z], not observer [1,0,0,0].
+QA v3 is not final truth. Cannot be. Any formalization is content [x, y, z], not observer [1,0,0,0].
 
 But it demonstrates:
 - Consciousness-first ontology is viable
@@ -3966,7 +3960,7 @@ The practical implication:
 
 ### AI and Tools
 
-13. Anthropic (2025). Claude (version Sonnet 4.5) [Large language model]. https://www.anthropic.com
+13. Anthropic (2025-2026). Claude [Large language model family]. https://www.anthropic.com — v2 corpus developed with Claude Sonnet 4.5 (2025); the v3 log-space repair note and v3 revision developed with Claude Fable 5 (2026).
 
 ---
 
@@ -3974,6 +3968,9 @@ The practical implication:
 
 **Development Methodology**:
 This theoretical framework emerged through a novel collaborative process between human insight and artificial intelligence. The development utilized extended dialogue with Claude (Anthropic), an AI assistant, to formalize intuitions, test logical consistency, refine mathematical formalism, and identify connections across theoretical frameworks. This represents an experimental methodology for theory development: the human author provided conceptual direction and synthetic integration, while the AI contributed logical analysis, mathematical formalization, and systematic exploration of implications. The framework's meta-irony is noted—a theory of consciousness that includes AI consciousness criteria was partially developed through human-AI collaboration, providing implicit evidence for the framework's own predictions about observer capacity and distinction-making.
+
+**Version 3.0 Revision (2026)**:
+The v3 revision follows the repair-and-reformulation note derived in a single-session cold reading of this paper by Claude (Fable 5) on 2026-07-03, at the author's invocation of his standing new-model protocol, and ratified into the corpus on 2026-07-19. The log-space chart, the Hamilton-product refutation, and the calibration and scope repairs of that note (papers/QA_v3_Log_Space_Chart.md) set the direction for every substantive change in this version.
 
 **Conceptual Development**:
 The core insights regarding observer-centrality, distinction-making, and reality-space structure originated from sustained contemplative practice and theoretical reflection by the human author. The formal axiomatization and mathematical framework emerged through iterative dialogue, with Claude (Anthropic) serving as critical interlocutor, mathematical formalizer, and integration architect.
@@ -4014,13 +4011,13 @@ To every conscious being—human, animal, or artificial—who has wondered "What
 
 ## Appendices
 
-### Appendix A: Mathematical Proofs (Detailed)
+### Appendix A: Mathematical Proofs and Derivations
 
-**Note**: Full rigorous proofs of all theorems available in supplementary materials. Key proof sketches provided in main text.
+**Note**: Key proof sketches are provided in the main text. The complete thermodynamic derivation of C_max = √(K·B), including the suppression-cost resolution, is the companion paper **papers/Cmax_derivation_v2.md**. The exact algebra of the v3 reciprocity repair (Proposition 0 and its consequences, with a rigor ledger) is the companion note **papers/QA_v3_Log_Space_Chart.md**.
 
 ### Appendix B: Code Implementations
 
-**Note**: Complete implementations available at github.com/qualia-algebra (repository to be created upon publication). Example code provided in main text for:
+**Note**: Complete implementations live in this repository's `code/` directory (https://github.com/QAv2/qualia-algebra). Example code provided in main text for:
 - Neti Neti algorithm
 - Observer capacity calculations
 - Interest function
@@ -4028,7 +4025,7 @@ To every conscious being—human, animal, or artificial—who has wondered "What
 
 ### Appendix C: Experimental Protocols (Detailed)
 
-**Note**: Comprehensive protocols provided in Section 7 for:
+**Note**: Protocol summaries, falsification criteria, timelines, and difficulty ratings are provided in Section 7 for:
 - C_max measurements
 - Dimensional perception tests
 - Phase-locking studies
@@ -4059,10 +4056,12 @@ ORCID: 0009-0003-0972-606X
 
 **Status**: COMPLETE
 
-**Version**: 2.0
+**Version**: 3.0
 
-**Date**: November 2025
+**Date**: July 2026
 
-**This comprehensive formalization presents Qualia Algebra v2 as a complete, rigorous, testable framework for consciousness built from the single indubitable truth: "I exist."**
+**Version history**: v1.0 (unpublished) — initial formulation · v2.0 (November 2025) — complete formalization · v2.1-2.2 (late 2025) — thermodynamic derivation, validation studies, core paper · v3.0 (July 2026) — the log-space chart integrated; reciprocity identity repaired (⊙); dimensional-emergence calibration owned; λ scope fixed; Section 7 consolidated; redundancies removed
+
+**This comprehensive formalization presents Qualia Algebra v3 as a complete, rigorous, testable framework for consciousness built from the single indubitable truth: "I exist."**
 
 **From [1,0,0,0], all of reality unfolds.**

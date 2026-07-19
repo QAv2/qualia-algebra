@@ -1,7 +1,7 @@
 # The Thermodynamic Basis of Observer Capacity
 ## Why C_max = √(K·B): A Suppression-Cost Resolution
 
-**Version 2.1 - Final Integration**
+**Version 2.1 - Final Integration** · *Part of the QA v3.0 corpus (July 2026): this paper's calibration — C_max ≈ 6×10³ distinction-units, R ≈ 2×10³ per maintained dimension, n_max ≈ 3.0 with honest band 2.5–3.5 — is the corpus-canonical one (Comprehensive §§3.1–3.2).*
 
 **Joseph Vanhorn**  
 Independent Researcher  
