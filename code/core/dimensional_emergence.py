@@ -5,7 +5,6 @@
 # License: CC BY 4.0
 
 import numpy as np
-import matplotlib.pyplot as plt
 
 def calculate_n_max(c_max, k_overhead=100):
     """

@@ -13,7 +13,6 @@ License: CC BY 4.0
 
 import numpy as np
 import matplotlib.pyplot as plt
-from typing import Tuple, Optional
 
 
 def observer_capacity(K: float, B: float) -> float:
