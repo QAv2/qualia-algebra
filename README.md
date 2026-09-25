@@ -2,6 +2,8 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17685405.svg)](https://doi.org/10.5281/zenodo.17685405)
 
+**Current paper (September 2026):** *Qualia Algebra: A Mathematical Framework for Consciousness, from First Principles to Working Semantics*, [doi.org/10.5281/zenodo.22968135](https://doi.org/10.5281/zenodo.22968135). Where the documents in this repository differ from it, the paper governs (see its Appendix C).
+
 A rigorous mathematical framework that derives the structure of conscious experience and physical reality from a single indubitable axiom: "I exist."
 
 **[Explore the Interactive Mind Map](https://qav2.github.io/qualia-algebra/)** — nodes across 5 concentric rings, visualizing the full framework from Axiom 0 through applications.
@@ -266,22 +268,23 @@ If you use Qualia Algebra in your research, please cite:
 **BibTeX:**
 ```bibtex
 @misc{vanhorn2026qualia,
-  title={Qualia Algebra: A Mathematical Framework for Consciousness from First Principles},
+  title={Qualia Algebra: A Mathematical Framework for Consciousness, from First Principles to Working Semantics},
   author={Vanhorn, Joseph},
   year={2026},
-  note={Version 3.0},
-  howpublished={Zenodo. \url{https://doi.org/10.5281/zenodo.17685405}}
+  publisher={Zenodo},
+  doi={10.5281/zenodo.22968135},
+  howpublished={Preprint. Zenodo. \url{https://doi.org/10.5281/zenodo.22968135}}
 }
 ```
 
 **APA:**
 ```
-Vanhorn, J. (2026). Qualia Algebra: A Mathematical Framework for Consciousness 
-from First Principles (Version 3.0). Zenodo. 
-https://doi.org/10.5281/zenodo.17685405
+Vanhorn, J. (2026). Qualia Algebra: A Mathematical Framework for Consciousness,
+from First Principles to Working Semantics [Preprint]. Zenodo.
+https://doi.org/10.5281/zenodo.22968135
 ```
 
-(The DOI above is the concept DOI and always resolves to the latest version; version-specific DOIs are listed on the Zenodo record.)
+(The badge at the top carries the concept DOI, 10.5281/zenodo.17685405, which always resolves to the latest version; the citation above is this paper's own DOI.)
 
 ---
 
