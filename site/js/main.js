@@ -28,7 +28,7 @@
     panStartY: 0,
     panStartViewX: 0,
     panStartViewY: 0,
-    viewBox: { x: -800, y: -800, w: 1600, h: 1600 },
+    viewBox: { x: -740, y: -710, w: 1480, h: 1480 },
     nodePositions: {},
     nodeElements: {},
     labelElements: {},
@@ -97,7 +97,7 @@
         // Distribute evenly around the ring
         var count = nodesInRing.length;
         nodesInRing.forEach(function (n, i) {
-          var angle = (360 / count) * i - 90; // Start from top
+          var angle = (360 / count) * (i + 0.5) - 90; // Half a step off the top, clear of the ring label
           var rad = deg2rad(angle);
           state.nodePositions[n.id] = {
             x: CENTER_X + Math.cos(rad) * ringDef.radius,
@@ -558,10 +558,20 @@
 
     var subtitleHtml = node.subtitle ? '<p class="panel-description" style="margin-top:-4px;font-style:italic;opacity:0.7;">' + escapeHtml(node.subtitle) + '</p>' : '';
 
+    // Where the paper carries this node, and the standing it gives the claim
+    var statusHtml = "";
+    if (node.section || node.status) {
+      statusHtml = '<div class="panel-status">' +
+        (node.section ? '<span class="panel-status-section">Paper ' + escapeHtml(node.section) + '</span>' : '') +
+        (node.status ? '<span class="panel-status-label">' + escapeHtml(node.status) + '</span>' : '') +
+        '</div>';
+    }
+
     panelInner.innerHTML =
       '<div class="panel-branch-tag" style="background:' + ringDef.color + '22;color:' + ringDef.color + '">' + escapeHtml(ringDef.label || node.ring) + '</div>' +
       '<h2 class="panel-title">' + escapeHtml(node.label || node.id) + '</h2>' +
       subtitleHtml +
+      statusHtml +
       '<p class="panel-description">' + escapeHtml(desc) + '</p>' +
       chipsHtml;
 
@@ -696,7 +706,7 @@
   }
 
   function resetView() {
-    state.viewBox = { x: -800, y: -800, w: 1600, h: 1600 };
+    state.viewBox = { x: -740, y: -710, w: 1480, h: 1480 };
     updateViewBox();
   }
 

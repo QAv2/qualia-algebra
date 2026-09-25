@@ -68,6 +68,11 @@ html, body {
   margin-top: 4px;
 }
 
+.header-site-link-2 {
+  margin-left: 12px;
+  color: rgba(201, 168, 76, 0.7);
+}
+
 .header-site-link:hover {
   border-color: #c9a84c;
   color: #e8d5a0;
@@ -364,6 +369,31 @@ html, body {
   color: rgba(255,255,255,0.7);
   margin-bottom: 28px;
   white-space: pre-wrap;
+}
+
+.panel-status {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px 10px;
+  align-items: baseline;
+  margin: 0 0 16px;
+  padding: 8px 10px;
+  border-left: 2px solid rgba(201, 168, 76, 0.5);
+  background: rgba(201, 168, 76, 0.06);
+  border-radius: 0 4px 4px 0;
+  font-size: 11px;
+  line-height: 1.5;
+}
+
+.panel-status-section {
+  color: #c9a84c;
+  font-weight: 600;
+  letter-spacing: 0.4px;
+  white-space: nowrap;
+}
+
+.panel-status-label {
+  color: rgba(255,255,255,0.62);
 }
 
 .panel-section-label {
