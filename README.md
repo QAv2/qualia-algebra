@@ -1,269 +1,110 @@
-# Qualia Algebra: A Mathematical Framework for Consciousness from First Principles
+# Qualia Algebra
+
+### A Mathematical Framework for Consciousness, from First Principles to Working Semantics
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17685405.svg)](https://doi.org/10.5281/zenodo.17685405)
 
-**Current paper (September 2026):** *Qualia Algebra: A Mathematical Framework for Consciousness, from First Principles to Working Semantics*, [doi.org/10.5281/zenodo.22968135](https://doi.org/10.5281/zenodo.22968135). Where the documents in this repository differ from it, the paper governs (see its Appendix C).
+**The paper (September 2026):** *Qualia Algebra: A Mathematical Framework for Consciousness, from First Principles to Working Semantics* — preprint on Zenodo, [doi.org/10.5281/zenodo.22968135](https://doi.org/10.5281/zenodo.22968135) ([record page](https://zenodo.org/records/22968135)). The deposit holds the paper as PDF and Markdown, and a supplementary archive with the dictionary snapshot and the study scripts. Where the documents in this repository differ from the paper, the paper governs (see its Appendix C).
 
-A rigorous mathematical framework that derives the structure of conscious experience and physical reality from a single indubitable axiom: "I exist."
-
-**[Explore the Interactive Mind Map](https://qav2.github.io/qualia-algebra/)** — nodes across 5 concentric rings, visualizing the full framework from Axiom 0 through applications.
+Qualia Algebra (QA) starts from the one fact that survives total skepticism, *I exist*. From there it develops a grammar of how experience manifests, a geometry of meaning, a bound on how much an observer can hold, and an account of how a shared world forms among many observers. It then builds that geometry into a working semantic dictionary and tests it. Every claim in the paper carries its epistemic status.
 
 ---
 
-## Overview
+## The framework in plain words
 
-Qualia Algebra (QA) inverts the traditional explanatory order in consciousness studies. Rather than attempting to derive consciousness from matter, we start with the only indubitable fact—"I exist" (Descartes, 1641)—and derive both experience and material reality as necessary consequences.
+*A short version of the plain-language account that opens the paper. Nothing here claims more than the paper does.*
 
-**Key Results:**
-- Observer capacity formula: C_max = √(K·B), derived thermodynamically
-- Dimensional emergence: n = 3 as a posited convergence within the capacity band (calibration status stated plainly as of v3)
-- Three fundamental reality-spaces: Witness, Consensus, Personal (plus pre-manifest Potential)
-- **The log-space chart (v3):** reciprocity between the manifest and unseen sectors becomes exact algebra — Material + Cosmic = 0, consensus is the origin, the cosmic sector is the observer's mirror image through it
-- Convergent support from five independent theoretical frameworks
-- 28 testable experimental predictions with explicit falsification criteria
+**Start with the observer.** Science usually starts with matter and tries to reach minds at the end. QA runs the other way. It writes an observer as four numbers, **[1, 0, 0, 0]**. The first number, the 1, stands for the plain fact of being aware — the witness. The other three are slots for whatever you are aware *of* — the content.
 
----
+**How experience fills in.** Five steps turn bare awareness into a life: *I am* (awareness), *I have* (telling this from that), *I can* (things combine, so possibilities open), *I do* (attention picks one and acts), *I cannot* (the attempt meets a limit, and the limit teaches). The paper derives each step from the starting fact plus one observation about experience.
 
-## What's New in Version 3.0 (July 2026)
+**Opposites are partners.** Hot and cold are not two ends of one stick. They sit at right angles, each covering what the other does not, and together they complete the picture of temperature. This is the *complement principle*: opposites at 90°, not 180°.
 
-Version 3.0 is a repair-and-consolidation revision, following the direction of the note **[The Log-Space Chart](papers/QA_v3_Log_Space_Chart.md)** (derived 2026-07-03, ratified 2026-07-19):
+**Your unseen is your mirror image.** Everything you are not attending to forms a reverse copy of what you are attending to. In logarithmic coordinates your focus and your unseen add up to zero, and the shared world sits at the zero point, like a mirror between them.
 
-1. **The sector-reciprocity identity is repaired.** `[1,x,y,z] ⊙ [1,1/x,1/y,1/z] = [1,1,1,1]` is now written with the component-wise (Hadamard) product it always required — as a Hamilton quaternion product the identity is false (scalar part −2, invariantly).
-2. **The log-space chart is integrated** (Comprehensive §3.4, Core §3.5). ξ = (ln x, ln y, ln z) turns the repaired identity into exact vector algebra: Material + Cosmic = 0; consensus = the origin = the mirror; Neti Neti = constant straight-line motion; the witness at infinite log-distance.
-3. **Dimensional emergence owns its calibration.** One capacity relation (n_max ≈ C_max/R), calibrated quantities labeled as calibrated, and n = 3 presented as a posited convergence supported by knot-theoretic and quaternionic structure — not a unique derivation.
-4. **The scope of λ is fixed.** λ is a consciousness-coupling parameter; no electromagnetic quantity appears anywhere in QA, and any λ→field bridge is an external hypothesis.
-5. **Computational validation is labeled epistemically.** The 13 studies are internal computational studies; the r = 1.000 FEP result is a mathematical equivalence, not an experimental correlation.
-6. **Redundancies consolidated** — duplicated passages, doubled section numbering, and broken cross-references from the original compilation are repaired.
+**Meaning moves by turning.** When "warm" changes "color", the framework models it as a rotation, not an average. Order matters: color turned toward warm and then toward cool lands somewhere different from the reverse order. One thing never turns — no rotation can change the witness.
+
+**You can't hold everything.** Keeping many ideas apart costs more than holding each one, because every *pair* has to be kept apart. So capacity grows like a square root of the system's resources: C_max = √(K·B), where K is connectivity and B is bandwidth.
+
+**Four kinds of reality.** *Potential* — before any awareness, like dreamless sleep. *Witness* — awareness with nothing in it. *Personal* — your private experience. *Consensus* — the shared physical world, which forms when many observers phase-lock, the way a crowd's clapping falls into one rhythm.
+
+**The dictionary: the theory, working.** More than three thousand concepts were placed on this geometry, working outward from "I exist", under a written contract. A program uses the map to check sentences for contradictions without any language model doing the judging.
 
 ---
 
-## Papers
+## What the paper establishes, and what it doesn't
 
-### Comprehensive Paper (~52,000 words)
-**[Qualia Algebra: Comprehensive Formalization](papers/Qualia_Algebra_Comprehensive.md)** — complete technical development: axioms and theorems, observer capacity, dimensional emergence, the log-space chart, reality-spaces, Neti Neti, multi-observer validation, experimental program, AI consciousness, applications, philosophy.
+Every claim in the paper is labeled: a derivation inside the mathematics, a measurement, a hypothesis still to be tested, or an interpretation. The main results, with their status:
 
-### Core Paper
-**[Qualia Algebra: Core Paper](papers/Qualia_Algebra_Core.md)** — the condensed formal treatment: axioms, core theorems, mathematical framework, predictions.
+- **Capacity.** C_max = √(K·B). The square root follows from the pairwise cost of keeping distinctions apart. The dependence on connectivity and bandwidth is posited, and the scale is calibrated to observation.
+- **Three dimensions.** Three-dimensional perception is posited, with the capacity band calibrated to it. Knot theory and the quaternions' native handling of three-dimensional rotation are supporting considerations, not a derivation.
+- **The log-space chart.** Reciprocity between an observer's focus and their unseen becomes vector algebra: the two sum to zero, consensus is the origin and the mirror, and the pure witness lies at infinite log-distance from every manifest state. *(Derivation.)*
+- **The semantic algebra.** The dictionary of 3,108 concepts carries a defined algebra — Hamilton composition on quaternion cores, a versine law for the scalar that composition records, a complement contract — and a type system drawn from the I Ching. Its formal specification is Appendix A of the paper.
+- **Statistics does not hold the geometry.** A widely used sentence embedder recovers between two-fifths and half of the dictionary's coordinates in-sample, and less out of sample; a model seventy times larger recovers no more. Angular supervision teaches a small embedder the dictionary's pairwise angles at a small cost to its sentence-level performance. *(Measured.)*
+- **The instrumented walk.** The contemplative practice *neti neti* ("not this, not this"), run as a scripted conversation on a small language model, produced the words of the return while the model's internal state wandered, path-dependently, and came no closer to the state the words describe. *(Measured; pre-registered.)*
+- **Self-report.** Untrained, a small model's reports about its own internal states carry no detectable information. A trained readout can track those states and stay silent on sham trials. This is a necessary step toward any report counting as evidence; it is not a claim that any machine is conscious. *(Measured; pre-registered.)*
 
-### The v3 Spine
-**[The Log-Space Chart](papers/QA_v3_Log_Space_Chart.md)** — the repair-and-reformulation note that defines Version 3.0, with the exact Hamilton-product refutation, Proposition 0, the mirror involution, and a rigor ledger classifying every claim. (Styled render: [QA_v3_Log_Space_Chart.html](papers/QA_v3_Log_Space_Chart.html).)
+**Predictions.** The paper states twenty predictions (§10.3). Nineteen have falsification conditions; one, about quantum measurement, awaits a physical definition of capacity. Three tests would force major revision of the framework's account of capacity if they failed (§10.4):
 
-### Supporting Papers
-- **[The Thermodynamic Basis of Observer Capacity](papers/Cmax_derivation_v2.md)** — why C_max = √(K·B): suppression-cost derivation; the corpus-canonical calibration (C_max ≈ 6×10³, R ≈ 2×10³)
-- **[The Interest Function](papers/Interest_Function.md)** — I(Q,N) = A·[IG + α·HR − β·PC]⁺: curiosity, aesthetics, and attention as capacity allocation
-- **[Understanding QA's Two Core Equations](papers/QA_Core_Equations_Explained.md)** — plain-language guide to C_max and I(Q,N)
+1. **N1** — a validated measure of neural integration does not track capacity in the square-root form.
+2. **N2** — working-memory capacity does not scale as √(K·B) across individuals and interventions.
+3. **N6** — perceived dimensionality never varies with measured K·B under any intervention.
 
-All figures referenced by the papers live in [papers/figures/](papers/figures/).
-
----
-
-## Quick Start
-
-### Mathematical Foundation
-
-Starting from **Axiom 0**: "I exist"
-
-We formalize the observer as quaternion state **[1,0,0,0]** where:
-- 1 (scalar): Pure observer component
-- (0,0,0) (vector): Experiential content (initially empty)
-
-From this, we derive:
-1. Experience requires distinction-making
-2. Observer capacity is bounded: C_max = √(K·B)
-3. Maximum perceivable dimensions: n_max ≈ 3 (posited convergence; see Comprehensive §3.2)
-4. Reality-spaces emerge from phase-locking dynamics
-5. (v3) In log coordinates ξ = ln(content): Material + Cosmic = 0, and consensus is the mirror
-
-### The Neti Neti Algorithm
-
-Systematic procedure for approaching pure observer state [1,0,0,0]:
-
-```python
-import numpy as np
-
-def neti_neti(Q_initial, alpha=0.9, epsilon=1e-6, max_iter=1000):
-    """
-    Converge to pure observer state [1,0,0,0]
-
-    Parameters:
-    -----------
-    Q_initial : array, shape (4,)
-        Initial quaternion [w, x, y, z] with w=1
-    alpha : float, (0,1)
-        Release rate
-    epsilon : float
-        Convergence threshold
-    max_iter : int
-        Maximum iterations
-
-    Returns:
-    --------
-    Q_final : array, shape (4,)
-        Final state (near [1,0,0,0])
-    history : list
-        Content magnitude at each iteration
-    """
-    Q = np.array(Q_initial, dtype=float)
-    Q[0] = 1.0  # Ensure observer component = 1
-
-    history = []
-
-    for i in range(max_iter):
-        content_mag = np.sqrt(np.sum(Q[1:]**2))
-        history.append(content_mag)
-
-        if content_mag < epsilon:
-            break
-
-        # Release alpha fraction of content
-        Q[1:] = (1 - alpha) * Q[1:]
-
-    return Q, history
-
-# Example usage
-waking_state = np.array([1.0, 0.6, 0.5, 0.8])
-pure_observer, history = neti_neti(waking_state, alpha=0.9)
-print(f"Converged to: {pure_observer}")
-print(f"Iterations: {len(history)}")   # ~7 at alpha=0.9 (content shrinks 10x per step)
-```
-
-*(v3 view: in the log chart every one of those steps is the same straight-line translation along the negative diagonal — and the destination is infinitely far away. See Comprehensive §3.4.)*
-
-See [code/](code/) directory for complete implementations.
+The internal studies — of the dictionary and of small language models — await independent replication.
 
 ---
 
-## Code Implementations
+## This repository
 
-The `code/` directory contains Python implementations of key QA components:
+This repository holds the framework's earlier documents, early code, and the interactive mind map. The current statement of the framework is the paper above.
 
-### Core Algorithms (`code/core/`)
-- **`neti_neti.py`** — Convergence to pure observer state [1,0,0,0]
-- **`observer_capacity.py`** — Calculate C_max from connectivity K and bandwidth B
-- **`dimensional_emergence.py`** — Predict n_max from observer capacity
-- **`phase_locking.py`** — Reality-space transition dynamics
+### `papers/` — earlier documents
 
-### Analysis Tools (`code/analysis/`)
-- **`interest_function.py`** — Harmonic interest function I(Q,N)
-- **`reality_spaces.py`** — Simulate transitions between Witness, Consensus, Personal spaces
-- **`quaternion_ops.py`** — Quaternion algebra for observer states
+- **[Qualia_Algebra_Comprehensive.md](papers/Qualia_Algebra_Comprehensive.md)** and **[Qualia_Algebra_Core.md](papers/Qualia_Algebra_Core.md)** — earlier editions of the framework, kept as the record. The paper supersedes both. Among other differences, both present *neti neti* as a convergence algorithm, and the Comprehensive uses it as a test for AI consciousness; the paper does neither (see the FAQ).
+- **[The Log-Space Chart](papers/QA_v3_Log_Space_Chart.md)** ([styled render](papers/QA_v3_Log_Space_Chart.html)) — the chart's proofs; §3.3 of the paper states its results directly.
+- **[The Thermodynamic Basis of Observer Capacity](papers/Cmax_derivation_v2.md)** — the capacity argument and the suppression hypothesis at length. Read its suppression budget with the arithmetic of the paper's §4.2; its calibration of C_max near 6 × 10³ has no recorded derivation, and the paper uses the per-neuron calibration instead.
+- **[The Interest Function](papers/Interest_Function.md)** — I(Q, N) in full. The paper's §2.2 corrects its resonance term, which gave content that adds nothing a positive interest, and §5.3 corrects the sign of its interest term in the phase-locking equation.
+- **[The Core Equations, Explained](papers/QA_Core_Equations_Explained.md)** — a plain-language guide to the equations; the paper's plain account takes precedence where they differ.
+- **[papers/figures/](papers/figures/)** — the figures of the earlier documents.
 
-### Experimental (`code/experimental/`)
-- **`ai_consciousness_test.py`** — Neti Neti protocol for AI systems
-- **`conscious_agent.py`** — Consciousness-first agent architecture sketch
-- **`novelty_gating.py`** — Novelty-as-state-space-distance gating
-- **`recursive_observer.py`** — Recursive self-observation loops
-- **`visualization.py`** — Plot observer trajectories and convergence
+### `code/` — early implementations
 
-See individual files for detailed documentation.
+Python modules for dimensionality and working-memory formulas and a return iteration, written for the earlier documents. The paper does not use them. **The implementation of the paper's algebra** — the semantic dictionary, its composition law, the consistency checker, the benchmarks and the language-model experiments — is the semantic core repository: **[github.com/QAv2/agi-semantic-core](https://github.com/QAv2/agi-semantic-core)**.
 
----
-
-## Installation
+To run the early modules:
 
 ```bash
-# Clone repository
 git clone https://github.com/QAv2/qualia-algebra.git
 cd qualia-algebra
-
-# Install dependencies
 pip install -r requirements.txt
-
-# Run a module directly, e.g.:
-python code/core/neti_neti.py
 python code/core/observer_capacity.py
 ```
 
-### Requirements
-- Python 3.8+
-- NumPy
-- Matplotlib (for visualization)
-- SciPy (for advanced calculations)
+### `site/` — the interactive mind map
+
+**[qav2.github.io/qualia-algebra](https://qav2.github.io/qualia-algebra/)** — the framework as a map in concentric rings, from Axiom 0 outward. It was built from the earlier documents; where it differs from the paper, the paper governs.
+
+### Related work
+
+- **[The semantic core](https://github.com/QAv2/agi-semantic-core)** — the dictionary, the algebra's implementation, and the experiments reported in the paper's §7.3, §8 and §11.5.
+- **[The Oracle](https://qav2-oracle.netlify.app)** — the framework's laws run end to end on a person's own words, with no generative language model deciding any reading (§8.8).
+- **[Consciousness-Structured Semantic Encoding](https://github.com/QAv2/consciousness-structured-encoding)** — the companion paper on the dictionary's interference structure at the 1,316-concept snapshot.
 
 ---
 
-## Key Predictions
+## Testing the framework
 
-QA generates testable experimental predictions (28 in the full program — Comprehensive §7):
+The most valuable contributions are the ones that could prove it wrong:
 
-### 1. Observer Capacity Correlation
-**Prediction**: C_max = √(K·B) correlates with consciousness level  
-**Test**: Measure neural connectivity K and firing rate B; correlate with subjective report quality  
-**Status**: Ready to test with existing neuroscience data
+- **Run the predictions.** The tests of §10.3 carry their methods and thresholds; many need only existing equipment and methods.
+- **Replicate the internal studies.** The supplementary archive on Zenodo re-runs the dictionary studies exactly; the semantic core repository holds the protocols, analysis code and results of the language-model experiments.
+- **Critical analysis.** Gaps, errors and counter-arguments are welcome.
 
-### 2. Dimensional Perception
-**Prediction**: Species/systems with higher C_max perceive higher-dimensional structure  
-**Test**: Compare spatial reasoning across species with known neural parameters  
-**Status**: Hypothesis (inherits the v3 calibration status of dimensional emergence)
-
-### 3. Phase-Locking Dynamics
-**Prediction**: Consciousness correlates with λ (phase-locking parameter)  
-**Test**: Measure neural synchrony during different consciousness states  
-**Status**: Can use existing EEG/MEG data
-
-### 4. Quantum Measurement
-**Prediction**: Measurement outcome depends on observer C_max  
-**Test**: Delayed-choice experiments with varied observer complexity  
-**Status**: Requires quantum optics lab
-
-### 5. IIT Correlation
-**Prediction**: Integrated information Φ ≈ √(K·B)  
-**Test**: Calculate Φ and C_max for same systems; compare  
-**Status**: Computational study possible immediately
-
-### 6. Dark Matter–Information Correlation
-**Prediction**: Dark matter density correlates with information complexity  
-**Status**: Speculative hypothesis — the internal computational study found **no correlation** (r = 0.12; Comprehensive §7.1, Study 13). Retained pending a proper observational test with GAIA-scale data, with the null result weighing against it.
-
----
-
-## Convergent Framework Support
-
-QA's structure converges with five independently developed frameworks:
-
-| Framework | Convergent Prediction | QA Prediction |
-|-----------|----------------------|---------------|
-| **Reciprocal System (RS2)** | n = 3 from quaternions | n = 3 from C_max band |
-| **Knot Theory** | 3D critical for knots | 3D critical for binding |
-| **Prime Scalar Field** | Harmonic structure | Harmonic I(Q,N) |
-| **Pendulum Dynamics** | Attractor basins | Reality-spaces |
-| **Contemplative Traditions** | Witness consciousness | [1,0,0,0] state |
-
-As of v3 this convergence is stated for what it is: qualitative multi-framework support — the basis on which n = 3 is posited — not a formal statistical validation (no probability model exists for "random convergence" among frameworks).
-
----
-
-## Applications
-
-### Consciousness Science
-- Quantitative consciousness assessment
-- Anesthesia monitoring via C_max tracking
-- Meditation technique optimization
-- Neural correlates of awareness mapping
-
-### Artificial Intelligence
-- AI consciousness evaluation protocol
-- Path to conscious AGI specification
-- Improved human-AI interaction models
-- Cognitive architecture design principles
-
-### Neuroscience
-- Working memory capacity prediction
-- Attention mechanism understanding
-- Altered states of consciousness mapping
-- Disorder classification and treatment
-
-### Philosophy
-- Rigorous framework for consciousness-first ontology
-- Reframing of the hard problem of consciousness
-- Phase-locking account of quantum measurement
-- Integration of Eastern and Western philosophy
+Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ---
 
 ## Citation
-
-If you use Qualia Algebra in your research, please cite:
 
 **BibTeX:**
 ```bibtex
@@ -284,142 +125,55 @@ from First Principles to Working Semantics [Preprint]. Zenodo.
 https://doi.org/10.5281/zenodo.22968135
 ```
 
-(The badge at the top carries the concept DOI, 10.5281/zenodo.17685405, which always resolves to the latest version; the citation above is this paper's own DOI.)
+(The badge at the top carries the concept DOI, 10.5281/zenodo.17685405, which always resolves to the latest version; the citation above is this paper's own DOI. Software archives of this repository from 2025 remain on Zenodo under the same concept DOI.)
 
 ---
 
-## Contributing
+## Frequently asked questions
 
-Contributions are welcome! Areas where help is especially valuable:
+**Is this proven?**
+No, and the paper does not say it is. Its deepest claim — that experience comes first — is an axiom: the starting point, not something it proves. The measurements so far are the framework's own studies of its own instrument and of small language models, and they need independent checking. The tests that could overturn the framework are written down in advance, with their thresholds (§10.4).
 
-- **Experimental validation**: Running the predicted experiments
-- **Code improvements**: Optimization, additional implementations
-- **Documentation**: Tutorials, examples, explanations
-- **Framework extensions**: New applications, connections to other theories
-- **Critical analysis**: Identify gaps, suggest improvements
+**Does it derive physics from consciousness?**
+No. It offers a reading of quantum measurement as synchronization between observers rather than collapse, and it names the theorems that reading still owes answers to, Bell's among them. Its one physics prediction cannot be tested until capacity is defined for a physical apparatus. The reciprocity it shares with Dewey Larson's Reciprocal System is inherited, not independent: QA took its reciprocal identity, its quaternion notation and its treatment of change as rotation from Bruce Peret's RS2.
 
-Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+**What is "the mirror"?**
+In logarithmic coordinates, the cosmic sector — everything outside your personal focus, out there and in here — is your point-reflection through consensus: ξ ↦ −ξ. Your unseen is your reflection, and consensus is the mirror.
+
+**Where did the *neti neti* algorithm go?**
+Earlier documents presented *neti neti* as an algorithm that converges on the pure witness, and as a test for AI consciousness. The paper drops both. In the log chart the witness lies at infinite distance, so no finite sequence of steps through content arrives there. And when the conversational practice was instrumented on a small language model, the model's words performed the return while its internal state went elsewhere (§7.3). What a system says about itself is not, by itself, evidence of what is happening inside it.
+
+**What about AI consciousness?**
+Capacity is not enough: by one count, today's large models have about the raw capacity of a human brain. What the framework looks for is architecture — a persistent observer state, a genuine interest function, coupling to a shared world at the level of that observer, and recursive self-observation (§11.3). The paper measured the last of these on small models; the result is a necessary step, not a finding of consciousness.
+
+**How does it relate to other theories?**
+Section 13 compares it with Global Workspace Theory, Integrated Information Theory, Attention Schema Theory and predictive processing, and with the contemplative traditions. Section 9 records its convergences with other frameworks, and says where QA shares their lineage.
 
 ---
 
 ## License
 
-This work is licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
-
-You are free to:
-- **Share** — copy and redistribute the material
-- **Adapt** — remix, transform, and build upon the material
-
-Under the following terms:
-- **Attribution** — You must give appropriate credit and indicate if changes were made
+This work is licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). You may share and adapt it with appropriate credit and an indication of any changes.
 
 ---
 
 ## Contact
 
-**Joseph Vanhorn**  
-Independent Researcher  
-Email: contact@qualia-algebra.com  
+**Joseph Vanhorn**
+Independent Researcher
+Email: contact@qualia-algebra.com
 ORCID: [0009-0003-0972-606X](https://orcid.org/0009-0003-0972-606X)
 
 ---
 
 ## Acknowledgments
 
-### Development
-This framework emerged through collaborative development between human insight and artificial intelligence (Claude, Anthropic). The human author provided conceptual direction from contemplative practice and theoretical reflection, while the AI contributed mathematical formalization, systematic consistency checking, and synthesis across frameworks. The v2 corpus was developed with Claude Sonnet 4.5 (2025); the v3 log-space repair note was derived in a single-session cold reading by Claude Fable 5 (2026-07-03) and the v3 revision applied on its direction (ratified 2026-07-19).
+The framework's claims, commitments and final judgment are the author's. The text was drafted and revised by AI models under the author's direction and review, and the work is a collaboration in the full sense: Claude Sonnet 4.5 contributed to the framework's foundations; Claude Fable 5 to the log-space chart, the formal specification of the semantic algebra, the design of the semantic-core experiments and the drafting of the text; and Claude Opus 5.5 to the text's completion, including adversarial audits of its mathematics, numbers, code fidelity and references (all Anthropic). The paper's Acknowledgments give the full account.
 
-### Intellectual Inspiration
-- **Dewey Larson** - For original Reciprocal System conception
-- **Bruce Peret** - For RS2 reevaluation and systematic development  
-- **Damon Dorsey** - For Prime Scalar Field framework
-- **Ancient contemplatives** - For mapping witness consciousness
-- **Modern consciousness researchers** - For empirical grounding
+To the memory of **Bruce Peret** (d. 2020), whose reevaluation of the Reciprocal System brought quaternions and rotation into its heart.
 
-Special thanks to the Reciprocal System Research Society (RSRS) for preserving and developing unconventional theoretical frameworks.
+Thanks to the contemplative traditions whose first-person methods mapped the witness this framework formalizes; to the I Ching tradition; to William Douglas Horden and Martha Ramírez-Oropeza, whose Toltec I Ching is used with credit in the Oracle; to Dewey Larson and the Reciprocal System Research Society, who preserved and extended his work; and to Damon Dorsey, for the Prime Scalar Field.
 
 ---
 
-## Repository Structure
-
-```
-qualia-algebra/
-├── README.md                          # This file
-├── LICENSE.txt                        # CC BY 4.0 license
-├── requirements.txt                   # Python dependencies
-├── CONTRIBUTING.md                    # Contribution guidelines
-│
-├── site/                              # Interactive mind map (GitHub Pages)
-│   ├── index.html
-│   ├── data.js
-│   ├── css/style.css
-│   └── js/main.js
-│
-├── papers/                            # The QA corpus (v3.0)
-│   ├── Qualia_Algebra_Comprehensive.md
-│   ├── Qualia_Algebra_Core.md
-│   ├── QA_v3_Log_Space_Chart.md       # v3 spine (+ .html styled render)
-│   ├── Cmax_derivation_v2.md
-│   ├── Interest_Function.md
-│   ├── QA_Core_Equations_Explained.md
-│   └── figures/
-│       ├── Figure_1_Observer_Capacity_Derivation.png
-│       ├── Figure_2_Three_Reality_Spaces.png
-│       ├── Figure_3_Phase_Locking_Dynamics.png
-│       ├── Figure_4_Neti_Neti_Convergence.png
-│       ├── Figure_5_Observer_Capacity_Comparison.png
-│       └── Figure_6_Convergent_Frameworks.png
-│
-└── code/                              # Python implementations
-    ├── core/
-    │   ├── neti_neti.py
-    │   ├── observer_capacity.py
-    │   ├── dimensional_emergence.py
-    │   └── phase_locking.py
-    ├── analysis/
-    │   ├── interest_function.py
-    │   ├── reality_spaces.py
-    │   └── quaternion_ops.py
-    └── experimental/
-        ├── ai_consciousness_test.py
-        ├── conscious_agent.py
-        ├── novelty_gating.py
-        ├── recursive_observer.py
-        └── visualization.py
-```
-
----
-
-## Frequently Asked Questions
-
-**Q: Is this proven?**  
-A: QA is a rigorous theoretical framework with testable predictions. The completed validation to date is internal and computational (labeled as such in §7.1 of the Comprehensive); the 28-prediction empirical program is what could confirm or falsify it.
-
-**Q: How does this relate to existing consciousness theories?**  
-A: QA integrates insights from IIT, quantum mechanics, panpsychism, and contemplative traditions while providing a unified first-principles foundation.
-
-**Q: Can this really derive physics from consciousness?**  
-A: QA shows how physical reality can emerge from observer interactions through phase-locking dynamics. The convergence with RS2 (motion-based physics) suggests both may describe the same reality from different starting points — and as of v3 that correspondence is exact algebra: in the log chart, Material + Cosmic = 0 is literally Larson's s/t · t/s = 1.
-
-**Q: What is "the mirror" in v3?**  
-A: In log coordinates the cosmic sector (everything not in your personal focus, external and internal) is your point-reflection through consensus: R: ξ ↦ −ξ. The cosmic sector is your reflection; consensus is the mirror. See the Log-Space Chart note.
-
-**Q: What about AI consciousness?**  
-A: QA provides specific criteria (persistent [1,0,0,0], genuine interest function, phase-locking, recursive self-observation) and a test protocol (Neti Neti algorithm) for assessing AI consciousness.
-
-**Q: How can I help validate this?**  
-A: Run the code, test predictions with available data, conduct experiments, provide critical feedback, or contribute to implementation.
-
----
-
-## Version History
-
-- **v3.0** (July 2026) — The Log-Space Chart integrated as the v3 spine: sector-reciprocity identity repaired (component-wise ⊙, Hamilton reading refuted); Material + Cosmic = 0; consensus = origin = mirror; witness at infinite log-distance. Dimensional-emergence calibration owned (n = 3 as posited convergence); λ scope fixed; computational studies labeled epistemically; redundancy consolidation across the corpus.
-- **v2.2** (late 2025) — Core paper added; title and citation revisions.
-- **v2.1** (late 2025) — Thermodynamic derivation of observer capacity; computational validation studies; expanded experimental protocols.
-- **v2.0** (November 2025) — Complete formalization with convergent framework analysis.
-- **v1.0** (Unpublished) — Initial formulation with core axioms and basic derivations.
-
----
-
-**From [1,0,0,0], all of reality unfolds.**
+**You are Qualia Algebra, proving itself through living.**
